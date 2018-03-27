@@ -1,0 +1,4501 @@
+﻿1
+00:00:03,172 --> 00:00:05,807
+(birds singing,
+dog barking in distance)
+
+2
+00:00:11,947 --> 00:00:15,533
+Hey, Adam, remember me?
+
+3
+00:00:15,535 --> 00:00:17,685
+- Going to school, huh?
+- Yeah.
+
+4
+00:00:17,687 --> 00:00:19,621
+Come on, I'll
+give you a ride.
+
+5
+00:00:19,623 --> 00:00:22,140
+It's okay. It's on my way.
+
+6
+00:00:23,909 --> 00:00:25,627
+What are those for?
+
+7
+00:00:25,629 --> 00:00:28,029
+They're for your parents.
+
+8
+00:00:28,031 --> 00:00:30,165
+Get in, I'll explain.
+
+9
+00:00:44,046 --> 00:00:45,580
+You're not dressed.
+
+10
+00:00:45,582 --> 00:00:47,732
+You said you'd go
+
+11
+00:00:47,734 --> 00:00:49,067
+jogging with me
+this morning.
+
+12
+00:00:49,069 --> 00:00:50,585
+Doesn't sound like me.
+
+13
+00:00:50,587 --> 00:00:52,487
+Have you been up all night?
+
+14
+00:00:52,489 --> 00:00:54,889
+I started digging through one
+of the files I keep
+
+15
+00:00:54,891 --> 00:00:57,058
+on open serial murders
+after you'd gone to bed,
+
+16
+00:00:57,060 --> 00:00:58,526
+and I lost track of time.
+
+17
+00:00:58,528 --> 00:01:00,995
+Still losing track of it,
+as a matter of fact,
+
+18
+00:01:00,997 --> 00:01:03,231
+so, no jogging. Sorry.
+
+19
+00:01:03,233 --> 00:01:05,700
+I thought we both agreed
+that a little exercise would
+
+20
+00:01:05,702 --> 00:01:08,069
+be a good addition
+to your sobriety regimen.
+
+21
+00:01:08,071 --> 00:01:10,571
+For future reference, when I say
+that I agree with you,
+
+22
+00:01:10,573 --> 00:01:11,906
+it means I'm not listening.
+
+23
+00:01:11,908 --> 00:01:14,743
+You know what else is great?
+Jazzercise.
+
+24
+00:01:14,745 --> 00:01:16,094
+I'll get you some
+leg warmers, a headband.
+
+25
+00:01:16,096 --> 00:01:17,479
+You'll look awesome.
+
+26
+00:01:17,481 --> 00:01:18,680
+I agree with you.
+
+27
+00:01:18,682 --> 00:01:20,014
+The Balloon Man?
+
+28
+00:01:20,016 --> 00:01:21,683
+Is that who you've
+been researching?
+
+29
+00:01:21,685 --> 00:01:23,017
+Yeah. Came to my attention
+
+30
+00:01:23,019 --> 00:01:24,752
+while I was still
+living in London.
+
+31
+00:01:24,754 --> 00:01:26,221
+New York's
+very own bogeyman.
+
+32
+00:01:26,223 --> 00:01:28,356
+- Obviously, you've heard of him.
+- Yeah.
+
+33
+00:01:28,358 --> 00:01:29,724
+He took his first victim
+
+34
+00:01:29,726 --> 00:01:31,943
+from Cobble Hill
+about seven years ago.
+
+35
+00:01:31,945 --> 00:01:34,529
+I was living just
+a few blocks away. Adam.
+
+36
+00:01:34,531 --> 00:01:36,314
+Adam something.
+I think he's taken
+
+37
+00:01:36,316 --> 00:01:37,598
+six kids since then?
+
+38
+00:01:37,600 --> 00:01:40,435
+- Seven as of last night.
+- What?
+
+39
+00:01:40,437 --> 00:01:42,787
+I heard it on my police
+scanner app around midnight.
+
+40
+00:01:42,789 --> 00:01:44,155
+Ten-year-old Mariana Castillo
+
+41
+00:01:44,157 --> 00:01:46,324
+snatched from her bedroom
+in Astoria, Queens,
+
+42
+00:01:46,326 --> 00:01:48,326
+the abductor's signature
+batch of balloons
+
+43
+00:01:48,328 --> 00:01:50,078
+left fluttering behind.
+
+44
+00:01:50,080 --> 00:01:52,414
+I'd like to think that
+Fleet Street would have devised
+
+45
+00:01:52,416 --> 00:01:54,615
+a more inventive sobriquet
+than "The Balloon Man,"
+
+46
+00:01:54,617 --> 00:01:56,968
+but I do enjoy the inadvertent
+E.E. Cummings reference.
+
+47
+00:01:56,970 --> 00:01:58,586
+Well, if you only heard it
+on the scanner, then you haven't
+
+48
+00:01:58,588 --> 00:01:59,888
+actually been assigned
+to the case.
+
+49
+00:01:59,890 --> 00:02:01,556
+Yet.
+
+50
+00:02:01,558 --> 00:02:03,425
+Child abductions
+and serial murders mean
+
+51
+00:02:03,427 --> 00:02:05,510
+psychiatric consultants
+and joint task forces,
+
+52
+00:02:05,512 --> 00:02:07,846
+which in turn means
+that Gregson can't call me in
+
+53
+00:02:07,848 --> 00:02:09,230
+until the police
+commissioner approves.
+
+54
+00:02:09,232 --> 00:02:11,299
+And he doesn't get in
+until 8:30 a.m.
+
+55
+00:02:11,301 --> 00:02:12,967
+Sharp. Add approximately
+three minutes for coffee,
+
+56
+00:02:12,969 --> 00:02:14,969
+another six for a trip
+to the loo.
+
+57
+00:02:14,971 --> 00:02:17,305
+Should be calling me in about,
+hmm, 15 minutes.
+
+58
+00:02:17,307 --> 00:02:19,824
+(phone ringing)
+Or sooner.
+
+59
+00:02:21,243 --> 00:02:23,578
+Holmes.
+
+60
+00:02:23,580 --> 00:02:26,030
+Crescent Street, Astoria.
+
+61
+00:02:26,032 --> 00:02:27,749
+I'll be there presently.
+
+62
+00:02:31,320 --> 00:02:34,656
+I could have sworn I was wearing
+a shirt at some point.
+
+63
+00:02:34,658 --> 00:02:36,040
+GREGSON:
+<i>The girl's bedroom</i>
+
+64
+00:02:36,042 --> 00:02:37,792
+is in the back.
+
+65
+00:02:37,794 --> 00:02:40,161
+Perp forced the lock on her
+window around 9:30 last night,
+
+66
+00:02:40,163 --> 00:02:41,880
+took her, tied the
+balloons to her bed.
+
+67
+00:02:41,882 --> 00:02:44,665
+Mom's a painter.
+She went to a friend's gallery.
+
+68
+00:02:44,667 --> 00:02:46,834
+Dad went to the
+bodega on the corner
+
+69
+00:02:46,836 --> 00:02:49,387
+to get some wine
+around 9:45.
+
+70
+00:02:50,439 --> 00:02:53,741
+That's freshly broken.
+
+71
+00:02:55,377 --> 00:02:57,228
+By the girl, presumably,
+grabbing for a handhold.
+
+72
+00:02:57,230 --> 00:02:59,113
+That's good.
+She's a fighter.
+
+73
+00:02:59,115 --> 00:03:01,199
+If little girls could
+actually win fights
+
+74
+00:03:01,201 --> 00:03:02,534
+against grown men, then, yeah,
+
+75
+00:03:02,536 --> 00:03:04,702
+it would be a cause
+for great optimism.
+
+76
+00:03:09,608 --> 00:03:12,043
+(indistinct chatter)
+
+77
+00:03:13,877 --> 00:03:15,543
+What's this?
+
+78
+00:03:15,545 --> 00:03:17,879
+Parents are making a plea
+to the twist that took their kid.
+
+79
+00:03:17,881 --> 00:03:18,766
+They mustn't.
+
+80
+00:03:18,767 --> 00:03:20,150
+Why not?
+
+81
+00:03:20,152 --> 00:03:21,685
+Excuse me. You can't do this.
+
+82
+00:03:21,687 --> 00:03:23,103
+We're live in ten, buddy,
+
+83
+00:03:23,105 --> 00:03:23,737
+so if you wouldn't mind.
+
+84
+00:03:23,738 --> 00:03:25,121
+You don't understand. It's...
+
+85
+00:03:25,123 --> 00:03:28,424
+We're on in ten, nine,
+eight, seven, six,
+
+86
+00:03:28,426 --> 00:03:30,376
+five, four, three...
+Look, I'm sorry.
+
+87
+00:03:30,378 --> 00:03:33,880
+Two, one.
+Hey. Sherlock!
+
+88
+00:03:33,882 --> 00:03:35,765
+I'm sorry. I warned him!
+MAN: What is this?
+
+89
+00:03:35,767 --> 00:03:37,850
+Who are you?
+I'm just the man who's trying
+
+90
+00:03:37,852 --> 00:03:39,602
+to keep these people from
+killing your daughter.
+
+91
+00:03:39,604 --> 00:03:41,137
+Mr. Holmes is a consultant with
+the department, Mr. Castillo.
+
+92
+00:03:41,139 --> 00:03:42,889
+Daniel Peters, Kayla Jackson,
+Billy Crawford.
+
+93
+00:03:42,891 --> 00:03:45,358
+Victims two, three and
+five of the Balloon Man.
+
+94
+00:03:45,360 --> 00:03:47,059
+The only ones whose
+bodies were found.
+
+95
+00:03:47,061 --> 00:03:49,278
+Forensics estimated
+he kept Daniel alive
+
+96
+00:03:49,280 --> 00:03:52,365
+for a full day before burial,
+Kayla for half a day,
+
+97
+00:03:52,367 --> 00:03:54,099
+Billy for almost two days.
+Why the discrepancy?
+
+98
+00:03:54,101 --> 00:03:55,952
+Sherlock, they lost their
+daughter. I think...
+
+99
+00:03:55,954 --> 00:03:57,787
+Last night, I discovered
+a direct correlation
+
+100
+00:03:57,789 --> 00:03:59,205
+between the quickness
+
+101
+00:03:59,207 --> 00:04:00,940
+with which the killer
+dispatched his victims
+
+102
+00:04:00,942 --> 00:04:02,541
+and the extent of their
+parents' media exposure.
+
+103
+00:04:02,543 --> 00:04:04,543
+I could show you
+the spreadsheet,
+
+104
+00:04:04,545 --> 00:04:06,495
+but in sum--
+the more interviews,
+
+105
+00:04:06,497 --> 00:04:08,531
+the faster
+the children died.
+
+106
+00:04:08,533 --> 00:04:09,882
+Is he right?
+
+107
+00:04:09,884 --> 00:04:11,584
+Usually.
+
+108
+00:04:11,586 --> 00:04:13,002
+I don't understand.
+
+109
+00:04:13,004 --> 00:04:14,720
+What does it matter
+how many interviews we do?
+
+110
+00:04:14,722 --> 00:04:17,089
+The Balloon Man feeds off
+the public grief
+
+111
+00:04:17,091 --> 00:04:18,557
+of his victims' families.
+
+112
+00:04:18,559 --> 00:04:20,176
+You nourish him,
+he'll get bored, end the game.
+
+113
+00:04:20,178 --> 00:04:21,510
+Keep him hungry,
+
+114
+00:04:21,512 --> 00:04:23,646
+we might have two days.
+
+115
+00:04:23,648 --> 00:04:25,648
+You want to get
+your little girl back?
+
+116
+00:04:25,650 --> 00:04:28,851
+It's simple.
+You do everything I say.
+
+117
+00:04:31,070 --> 00:04:35,070
+<font color=#00FF00>♪ Elementary 1x03 ♪</font>
+<font color=#00FFFF>Child Predator</font>
+Original Air Date on October 18, 2012
+
+118
+00:04:35,095 --> 00:04:39,095
+== sync, corrected by <font color="#00FF00">elderman</font> ==
+
+119
+00:04:39,120 --> 00:05:00,888
+♪
+
+120
+00:05:13,151 --> 00:05:14,902
+WATSON:
+Kemper.
+
+121
+00:05:14,904 --> 00:05:15,834
+Hmm?
+
+122
+00:05:15,835 --> 00:05:16,622
+That was the name
+
+123
+00:05:16,623 --> 00:05:18,039
+of the Balloon Man's
+first victim.
+
+124
+00:05:18,041 --> 00:05:20,158
+Adam Kemper.
+I just remembered.
+
+125
+00:05:20,160 --> 00:05:22,494
+The police found those
+balloons on the sidewalk
+
+126
+00:05:22,496 --> 00:05:25,130
+where he'd taken Adam, the
+ones that said, "Thank you"
+
+127
+00:05:25,132 --> 00:05:27,499
+Like Adam's parents had given
+him some sort of gift.
+
+128
+00:05:27,501 --> 00:05:29,634
+I read all the articles
+over the years.
+
+129
+00:05:29,636 --> 00:05:32,837
+I know it destroys
+the victims' families,
+
+130
+00:05:32,839 --> 00:05:34,305
+but being here in
+person is just...
+
+131
+00:05:34,307 --> 00:05:35,807
+Perhaps you'd like
+to go outside.
+
+132
+00:05:35,809 --> 00:05:38,226
+I'm fine, thanks. I just...
+
+133
+00:05:38,228 --> 00:05:40,044
+No, it's not an expression
+of concern. It's a request.
+
+134
+00:05:40,046 --> 00:05:41,429
+You're distracting me.
+
+135
+00:05:41,431 --> 00:05:42,847
+I'm distracting you.
+
+136
+00:05:42,849 --> 00:05:44,682
+Because clearly,
+this is all about you.
+
+137
+00:05:47,019 --> 00:05:49,854
+Excuse me!
+No, no, no, no, it's okay.
+
+138
+00:05:49,856 --> 00:05:51,439
+BELL:
+Mr. Castillo, you can't
+
+139
+00:05:51,441 --> 00:05:53,324
+blame yourself
+for what happened.
+
+140
+00:05:53,326 --> 00:05:55,560
+Actually, he can.
+
+141
+00:05:55,562 --> 00:05:57,062
+Excuse me?
+Not for your daughter's
+
+142
+00:05:57,064 --> 00:05:58,830
+abduction, of course.
+
+143
+00:05:58,832 --> 00:06:00,582
+The kidnapper would have found
+a way to take her eventually.
+
+144
+00:06:00,584 --> 00:06:02,083
+But you can and
+should blame yourself
+
+145
+00:06:02,085 --> 00:06:03,568
+for impeding our
+investigation.
+
+146
+00:06:03,570 --> 00:06:04,719
+I told you everything.
+
+147
+00:06:04,721 --> 00:06:06,955
+If everything includes
+one very big lie.
+
+148
+00:06:06,957 --> 00:06:08,840
+Where's the wine that you
+claimed you were buying
+
+149
+00:06:08,842 --> 00:06:10,291
+when your daughter
+was taken last night?
+
+150
+00:06:10,293 --> 00:06:12,310
+In your hand.
+
+151
+00:06:12,312 --> 00:06:14,045
+And there's the lie.
+
+152
+00:06:14,047 --> 00:06:16,431
+Bodegas put the price tag
+on the cap itself.
+
+153
+00:06:16,433 --> 00:06:18,249
+It saves stacking time.
+
+154
+00:06:18,251 --> 00:06:21,086
+Tag-- bottom.
+You-- liar.
+
+155
+00:06:21,088 --> 00:06:23,972
+Obviously, you bought this
+at another time,
+
+156
+00:06:23,974 --> 00:06:25,423
+presumably from the liquor store
+
+157
+00:06:25,425 --> 00:06:26,924
+on Atlantic where
+you purchased
+
+158
+00:06:26,926 --> 00:06:29,093
+the case of Prosecco
+you have in your pantry.
+
+159
+00:06:29,095 --> 00:06:30,595
+The bottle was
+already in your fridge,
+
+160
+00:06:30,597 --> 00:06:32,096
+so it provided
+an effective cover
+
+161
+00:06:32,098 --> 00:06:34,065
+as to why you were really
+out of the house.
+
+162
+00:06:34,067 --> 00:06:37,118
+Tell us her name, Mr. Castillo,
+right now.
+
+163
+00:06:37,120 --> 00:06:38,436
+Whose name?
+
+164
+00:06:38,438 --> 00:06:40,238
+His mistress.
+
+165
+00:06:40,240 --> 00:06:41,823
+(laughs)
+There's no point
+
+166
+00:06:41,825 --> 00:06:43,291
+in trying to deny it.
+
+167
+00:06:43,293 --> 00:06:44,609
+Your lemon press gave you away.
+
+168
+00:06:44,611 --> 00:06:47,045
+Well, presses, to be precise.
+One old.
+
+169
+00:06:47,047 --> 00:06:49,464
+<i>One quite new,</i>
+<i>less than a year. The pattern</i>
+
+170
+00:06:49,466 --> 00:06:51,216
+repeats itself with
+your two corkscrews,
+
+171
+00:06:51,218 --> 00:06:52,967
+<i>the pepper mills.</i>
+<i>The older items</i>
+
+172
+00:06:52,969 --> 00:06:54,369
+belong to you and your wife.
+
+173
+00:06:54,371 --> 00:06:56,221
+The doubles were bought
+by you when you moved
+
+174
+00:06:56,223 --> 00:06:57,922
+into your own place on Long Island.
+How...?
+
+175
+00:06:57,924 --> 00:06:59,624
+I found a letter in your
+mail forwarded to you
+
+176
+00:06:59,626 --> 00:07:02,393
+from a long-term stay
+hotel chain in Islip.
+
+177
+00:07:02,395 --> 00:07:03,961
+I assume that you
+and your wife separated
+
+178
+00:07:03,963 --> 00:07:05,814
+for a while,
+and then reconciled?
+
+179
+00:07:05,816 --> 00:07:07,565
+Which brings me
+to your Caller ID.
+
+180
+00:07:07,567 --> 00:07:09,300
+You took a 15-second call
+
+181
+00:07:09,302 --> 00:07:11,436
+<i>from a Long Island area code</i>
+
+182
+00:07:11,438 --> 00:07:13,988
+<i>last night right before</i>
+<i>you stepped out of the house.</i>
+
+183
+00:07:13,990 --> 00:07:15,990
+Presumably, from the woman who
+precipitated your separation.
+
+184
+00:07:15,992 --> 00:07:17,992
+She rang, you walked
+out of the house.
+
+185
+00:07:17,994 --> 00:07:20,478
+Why else would you hide
+information from the police
+
+186
+00:07:20,480 --> 00:07:23,248
+when you're clearly desperate
+to get your daughter back?
+
+187
+00:07:25,668 --> 00:07:30,121
+When Sara and I were separated,
+I dated a co-worker.
+
+188
+00:07:30,123 --> 00:07:33,541
+She called me last night, said
+she was in the neighborhood
+
+189
+00:07:33,543 --> 00:07:35,493
+and needed to see
+me, but I swear,
+
+190
+00:07:35,495 --> 00:07:37,545
+I only went out to
+tell her the she had
+
+191
+00:07:37,547 --> 00:07:39,731
+to stay away for good.
+How could you not say anything?
+
+192
+00:07:39,733 --> 00:07:41,349
+Where did you meet her?
+
+193
+00:07:41,351 --> 00:07:44,669
+On the street, a few houses
+down from here, but I swear,
+
+194
+00:07:44,671 --> 00:07:47,272
+I didn't go into her car.
+I just talked to her
+
+195
+00:07:47,274 --> 00:07:49,140
+through her window.
+I'd like to speak with her.
+
+196
+00:07:49,142 --> 00:07:51,509
+She had nothing to do with this.
+Probably not, but can you think
+
+197
+00:07:51,511 --> 00:07:53,695
+of anyone else who was parked
+on your block last night?
+
+198
+00:07:53,697 --> 00:07:55,179
+'Cause if she was
+waiting for you,
+
+199
+00:07:55,181 --> 00:07:56,814
+I assume she was
+facing your house.
+
+200
+00:07:56,816 --> 00:07:57,899
+If she was facing
+your house...
+
+201
+00:07:57,901 --> 00:07:59,400
+Maybe she saw
+something that
+
+202
+00:07:59,402 --> 00:08:01,903
+could help us find the guy
+who took your daughter.
+
+203
+00:08:03,405 --> 00:08:05,123
+I'm sorry. (sniffles)
+
+204
+00:08:05,125 --> 00:08:07,709
+I just... I can't believe
+I'm the reason
+
+205
+00:08:07,711 --> 00:08:10,528
+that lunatic got his hands
+on Roberto's daughter.
+
+206
+00:08:10,530 --> 00:08:13,864
+If I hadn't called him, then...
+
+207
+00:08:13,866 --> 00:08:16,968
+GREGSON: Now, Ms.-Ms. Thomas,
+it's all right.
+
+208
+00:08:16,970 --> 00:08:19,587
+Did you see or hear anything
+out of the ordinary?
+
+209
+00:08:19,589 --> 00:08:20,972
+I never got out of my car.
+
+210
+00:08:20,974 --> 00:08:22,407
+So, what now?
+
+211
+00:08:22,409 --> 00:08:24,275
+THOMAS: I was just looking
+at Roberto...
+
+212
+00:08:24,277 --> 00:08:25,894
+Do we go back to the Castillo
+house, talk to the parents more?
+
+213
+00:08:25,896 --> 00:08:27,712
+You're doing it again--
+talking.
+
+214
+00:08:27,714 --> 00:08:29,497
+What? I'm not
+supposed to talk?
+
+215
+00:08:29,499 --> 00:08:30,865
+Situations like these,
+
+216
+00:08:30,867 --> 00:08:32,600
+cases that require
+my total concentration--
+
+217
+00:08:32,602 --> 00:08:34,552
+I talk to you,
+never the other way around.
+
+218
+00:08:34,554 --> 00:08:36,020
+What in the hell...?
+Shh, shh.
+
+219
+00:08:36,022 --> 00:08:38,856
+THOMAS: ...and I headed
+for the corner,
+
+220
+00:08:38,858 --> 00:08:43,611
+and then, um, some other car ran
+the stop sign, almost hit me.
+
+221
+00:08:43,613 --> 00:08:45,647
+This was approximately when?
+Never mind.
+
+222
+00:08:45,649 --> 00:08:47,081
+I already know. 9:40.
+
+223
+00:08:47,083 --> 00:08:48,499
+The vine that the girl managed
+
+224
+00:08:48,501 --> 00:08:50,285
+to pull free from the side
+of the house-- it means
+
+225
+00:08:50,287 --> 00:08:51,920
+she was awake and struggling
+when Balloon Man took her.
+
+226
+00:08:51,922 --> 00:08:53,404
+So?
+
+227
+00:08:53,406 --> 00:08:55,340
+So, examinations of
+the three victims whose bodies
+
+228
+00:08:55,342 --> 00:08:57,292
+were recovered indicated
+that he chloroformed them.
+
+229
+00:08:57,294 --> 00:09:00,628
+He got sloppy with Mariana
+Castillo, rushed things.
+
+230
+00:09:00,630 --> 00:09:03,214
+Why? Because of the sirens.
+
+231
+00:09:03,216 --> 00:09:04,649
+What sirens?
+
+232
+00:09:04,651 --> 00:09:06,267
+Listening to my scanner
+last night,
+
+233
+00:09:06,269 --> 00:09:08,436
+I heard a report that preceded
+Roberto Castillo's call
+
+234
+00:09:08,438 --> 00:09:10,271
+to 911 by mere minutes.
+
+235
+00:09:10,273 --> 00:09:13,591
+Some sort of domestic dispute.
+A squad car was dispatched
+
+236
+00:09:13,593 --> 00:09:16,561
+to an address less than two
+blocks from the Castillo home,
+
+237
+00:09:16,563 --> 00:09:18,429
+sirens blaring.
+
+238
+00:09:18,431 --> 00:09:20,931
+You think the perp panicked, and
+thought the sirens were for him.
+
+239
+00:09:20,933 --> 00:09:22,734
+So he grabbed
+the girl and ran.
+
+240
+00:09:22,736 --> 00:09:25,370
+Stashed her in his car, and
+then tore through the stop sign.
+
+241
+00:09:25,372 --> 00:09:26,904
+Right in front
+of Ms. Thomas here.
+
+242
+00:09:26,906 --> 00:09:28,957
+BELL:
+The car that almost hit you--
+
+243
+00:09:28,959 --> 00:09:30,291
+do you remember
+what it looked like?
+
+244
+00:09:30,293 --> 00:09:33,328
+Um, actually,
+it was a van.
+
+245
+00:09:33,330 --> 00:09:35,830
+It's a kidnapper's vehicle of
+choice. What else? Make? Model?
+
+246
+00:09:35,832 --> 00:09:37,715
+It happened so fast.
+
+247
+00:09:37,717 --> 00:09:40,918
+Uh, I'm not really a car person.
+
+248
+00:09:40,920 --> 00:09:43,504
+Are you a color person? I'll get
+you started. Red? Blue? Black?
+
+249
+00:09:43,506 --> 00:09:46,491
+Brown. Dark brown.
+
+250
+00:09:46,493 --> 00:09:49,160
+So, what are we
+looking for?
+
+251
+00:09:49,162 --> 00:09:51,145
+Home security camera?
+
+252
+00:09:51,147 --> 00:09:53,815
+Neighbor
+with a photographic memory?
+
+253
+00:09:56,769 --> 00:09:59,687
+Hey, care to explain what
+you said back at the station
+
+254
+00:09:59,689 --> 00:10:04,942
+about, you know, you talking
+to me, not the other way around?
+
+255
+00:10:04,944 --> 00:10:07,178
+Yes, well aware
+I'm doing it again.
+
+256
+00:10:07,180 --> 00:10:08,579
+I've found, over the years,
+
+257
+00:10:08,581 --> 00:10:10,365
+that nothing clears up
+a difficult case
+
+258
+00:10:10,367 --> 00:10:12,583
+so much as stating it
+to another person.
+
+259
+00:10:12,585 --> 00:10:14,485
+I talk, they listen,
+and in talking,
+
+260
+00:10:14,487 --> 00:10:16,921
+I make connections
+I may have otherwise missed.
+
+261
+00:10:16,923 --> 00:10:19,090
+One-way street, not two.
+
+262
+00:10:19,092 --> 00:10:21,175
+Who did you speak
+to back in London?
+
+263
+00:10:21,177 --> 00:10:24,178
+Oh, lots of people.
+Waitstaff, cabdrivers.
+
+264
+00:10:24,180 --> 00:10:26,180
+The occasional prostitute.
+
+265
+00:10:26,182 --> 00:10:28,716
+Better listeners
+than you might think.
+
+266
+00:10:28,718 --> 00:10:31,019
+Right. You don't look good.
+
+267
+00:10:31,021 --> 00:10:33,137
+My appearance has always meant
+so much to me.
+
+268
+00:10:33,139 --> 00:10:34,972
+You haven't eaten today, have you?
+(sighs)
+
+269
+00:10:34,974 --> 00:10:36,841
+No sleep,
+no food...
+
+270
+00:10:36,843 --> 00:10:38,359
+Will make Sherlock
+a dull boy.
+
+271
+00:10:38,361 --> 00:10:40,695
+People in recovery
+have a tendency to relapse
+
+272
+00:10:40,697 --> 00:10:42,196
+when they
+haven't eaten...
+
+273
+00:10:42,198 --> 00:10:43,614
+You know what, Watson?
+
+274
+00:10:43,616 --> 00:10:44,949
+I take it all back.
+
+275
+00:10:44,951 --> 00:10:46,534
+I'm beginning
+to find the chatter
+
+276
+00:10:46,536 --> 00:10:47,902
+that accompanies
+your companionship
+
+277
+00:10:47,904 --> 00:10:49,287
+extremely useful.
+
+278
+00:10:49,289 --> 00:10:51,021
+A bit like white noise.
+
+279
+00:10:51,023 --> 00:10:54,459
+It puts me in a state where
+I think, and I observe better.
+
+280
+00:10:54,461 --> 00:10:56,010
+For example...
+
+281
+00:10:56,012 --> 00:10:59,530
+What? If this is your idea
+of a brown van,
+
+282
+00:10:59,532 --> 00:11:01,466
+then you're even more
+sleep-deprived than I thought.
+
+283
+00:11:01,468 --> 00:11:03,534
+Note the parking tickets. Hmm?
+
+284
+00:11:03,536 --> 00:11:05,636
+It's been here for days.
+Yet there are small
+
+285
+00:11:05,638 --> 00:11:06,921
+skid marks beneath each tire,
+
+286
+00:11:06,923 --> 00:11:08,923
+indicating it's been moved
+several inches.
+
+287
+00:11:09,892 --> 00:11:12,560
+Someone sideswiped it.
+
+288
+00:11:12,562 --> 00:11:14,545
+My money is
+on a speeding van
+
+289
+00:11:14,547 --> 00:11:16,564
+driven
+by a panicked kidnapper.
+
+290
+00:11:16,566 --> 00:11:19,484
+Well, the paint from the
+other car is supposed to be...
+
+291
+00:11:19,486 --> 00:11:22,019
+It's dark brown as per
+Ms. Thomas' description.
+
+292
+00:11:22,021 --> 00:11:23,554
+But there's blue
+and white paint
+
+293
+00:11:23,556 --> 00:11:25,740
+mixed in with the brown.
+Means it's brown now,
+
+294
+00:11:25,742 --> 00:11:28,058
+but was originally painted
+white and blue--
+
+295
+00:11:28,060 --> 00:11:30,828
+a very distinctive white
+and blue as a matter of fact.
+
+296
+00:11:30,830 --> 00:11:32,830
+Detective Bell.
+
+297
+00:11:32,832 --> 00:11:35,183
+Excuse me.
+
+298
+00:11:36,234 --> 00:11:38,336
+We are looking for a
+decommissioned NYPD van,
+
+299
+00:11:38,338 --> 00:11:40,538
+presumably sold at auction,
+then painted brown.
+
+300
+00:11:40,540 --> 00:11:42,173
+It has a long scrape
+down one side
+
+301
+00:11:42,175 --> 00:11:43,591
+where it struck
+this sedan.
+
+302
+00:11:43,593 --> 00:11:45,009
+Issue the BOLO now,
+
+303
+00:11:45,011 --> 00:11:48,096
+we may find the Balloon
+Man before lunch.
+
+304
+00:11:55,938 --> 00:11:57,922
+I'm not sleeping.
+
+305
+00:11:57,924 --> 00:12:00,108
+I'm just reviewing the details
+of the case in my mind.
+
+306
+00:12:00,110 --> 00:12:01,258
+I'm sorry, were
+you talking to me?
+
+307
+00:12:01,260 --> 00:12:02,610
+'Cause I thought I was
+
+308
+00:12:02,612 --> 00:12:04,812
+just a cavernous expanse
+between two ears.
+
+309
+00:12:06,264 --> 00:12:08,265
+You mustn't be
+so sensitive, Watson.
+
+310
+00:12:08,267 --> 00:12:12,537
+The service you're providing
+is quite valuable.
+
+311
+00:12:17,275 --> 00:12:19,276
+For a brief stretch
+in London,
+
+312
+00:12:19,278 --> 00:12:22,797
+I talked only to a phrenology
+bust I kept in my study.
+
+313
+00:12:22,799 --> 00:12:24,799
+I named him Angus.
+
+314
+00:12:24,801 --> 00:12:26,334
+Wasn't the same.
+
+315
+00:12:26,336 --> 00:12:29,286
+I realized that when
+it came to listeners,
+
+316
+00:12:29,288 --> 00:12:33,141
+I preferred animate
+to inanimate.
+
+317
+00:12:33,143 --> 00:12:34,475
+Was quite
+a breakthrough, really.
+
+318
+00:12:34,477 --> 00:12:37,261
+Angus.
+
+319
+00:12:37,263 --> 00:12:40,681
+I'm glad I made it to
+the animate category.
+
+320
+00:12:42,351 --> 00:12:44,969
+Just got a hit
+on our BOLO.
+
+321
+00:12:44,971 --> 00:12:47,071
+Car Five, you
+still got the eye?
+
+322
+00:12:47,073 --> 00:12:49,073
+CAR FIVE: Yeah, driver's a male white
+wearing a hoodie.
+
+323
+00:12:49,075 --> 00:12:50,858
+All I can make out.
+
+324
+00:12:50,860 --> 00:12:52,743
+Aviation One, you getting anything
+on the thermal imaging?
+
+325
+00:12:52,745 --> 00:12:54,412
+AVIATION ONE: Negative.
+We're too high to see if...
+
+326
+00:12:54,414 --> 00:12:57,165
+CAR FIVE: He made us.
+Heading north on 78th.
+
+327
+00:12:59,017 --> 00:13:01,002
+(sirens wailing)
+
+328
+00:13:09,545 --> 00:13:12,246
+Police!
+Hands up!
+
+329
+00:13:13,715 --> 00:13:15,616
+(grunts)
+
+330
+00:13:20,055 --> 00:13:21,856
+She's not here.
+
+331
+00:13:21,858 --> 00:13:24,275
+(indistinct radio transmission)
+
+332
+00:13:25,194 --> 00:13:27,628
+(panting)
+
+333
+00:13:28,730 --> 00:13:30,648
+Cap, that's not our guy.
+
+334
+00:13:30,650 --> 00:13:32,033
+He would have been
+in sixth grade
+
+335
+00:13:32,035 --> 00:13:34,302
+when Balloon Man took
+his first victim.
+
+336
+00:13:38,690 --> 00:13:39,874
+GREGSON:
+Hey, what are you doing?
+
+337
+00:13:42,861 --> 00:13:43,878
+Holmes.
+Sorry,
+
+338
+00:13:43,880 --> 00:13:45,029
+it's just that,
+well, according
+
+339
+00:13:45,031 --> 00:13:46,247
+to that birthmark on his neck,
+
+340
+00:13:46,249 --> 00:13:47,965
+you're quite right.
+
+341
+00:13:47,967 --> 00:13:50,468
+This is not the man that took
+Adam Kemper back in 2005.
+
+342
+00:13:50,470 --> 00:13:53,337
+This <i>is</i> Adam Kemper.
+
+343
+00:14:04,095 --> 00:14:05,929
+BELL:
+Adam.
+
+344
+00:14:06,743 --> 00:14:09,777
+Adam, please
+talk to me.
+
+345
+00:14:10,612 --> 00:14:12,880
+Now, we know who you are, Adam,
+
+346
+00:14:12,882 --> 00:14:16,634
+your fingerprints confirmed it,
+so come on,
+
+347
+00:14:16,636 --> 00:14:18,586
+tell me how you ended up
+in that van.
+
+348
+00:14:18,588 --> 00:14:20,271
+We've got
+a psychiatrist coming,
+
+349
+00:14:20,273 --> 00:14:23,858
+but I don't think it's going
+to make much difference.
+
+350
+00:14:23,860 --> 00:14:26,093
+This kid just doesn't
+want to engage.
+
+351
+00:14:26,095 --> 00:14:27,311
+WATSON:
+Well, have you notified
+
+352
+00:14:27,313 --> 00:14:29,147
+his parents?
+Commissioner
+
+353
+00:14:29,149 --> 00:14:30,148
+made the call.
+
+354
+00:14:30,150 --> 00:14:31,149
+They're on their way.
+
+355
+00:14:31,151 --> 00:14:32,433
+Should only take 'em
+an hour
+
+356
+00:14:32,435 --> 00:14:34,002
+to fight through
+all the media outside.
+
+357
+00:14:34,004 --> 00:14:35,936
+Story of the century, this.
+
+358
+00:14:35,938 --> 00:14:40,742
+Missing boy presumed dead,
+recovered after all these years.
+
+359
+00:14:40,744 --> 00:14:42,910
+WATSON: Well, the fact that he was
+found in a van that we thought
+
+360
+00:14:42,912 --> 00:14:44,579
+belonged to the
+Balloon Man--
+
+361
+00:14:44,581 --> 00:14:46,831
+that's obviously more
+than a coincidence, right?
+
+362
+00:14:47,800 --> 00:14:49,801
+I read about a
+case like this.
+
+363
+00:14:49,803 --> 00:14:52,170
+Police in Dubuque
+found a 15-year-old
+
+364
+00:14:52,172 --> 00:14:53,921
+who'd been missing
+for seven years.
+
+365
+00:14:53,923 --> 00:14:55,339
+Now, the man who
+had taken him
+
+366
+00:14:55,341 --> 00:14:56,808
+had enrolled
+him in school.
+
+367
+00:14:56,810 --> 00:14:58,959
+He even let him have
+friends over to the house.
+
+368
+00:14:58,961 --> 00:15:00,762
+The boy never tried to
+leave because he had grown
+
+369
+00:15:00,764 --> 00:15:02,180
+to sympathize
+with his captor.
+
+370
+00:15:02,182 --> 00:15:03,898
+If that's what's
+happened here,
+
+371
+00:15:03,900 --> 00:15:05,983
+it would explain why Adam
+was running from the police
+
+372
+00:15:05,985 --> 00:15:07,635
+instead of to them.
+
+373
+00:15:07,637 --> 00:15:09,270
+Because he's actually grown
+to care for the lunatic.
+
+374
+00:15:09,272 --> 00:15:10,655
+If Adam's
+still alive,
+
+375
+00:15:10,657 --> 00:15:13,474
+maybe some of the
+other victims are, too.
+
+376
+00:15:13,476 --> 00:15:16,477
+Adam was special-- his first.
+
+377
+00:15:16,479 --> 00:15:18,546
+The Balloon Man's second
+and third victims are
+
+378
+00:15:18,548 --> 00:15:20,314
+two of only three
+to be recovered.
+
+379
+00:15:20,316 --> 00:15:23,251
+Their condition suggests that
+he rather liked the killing.
+
+380
+00:15:24,837 --> 00:15:28,489
+After he had a taste, I don't
+believe he ever looked back.
+
+381
+00:15:28,491 --> 00:15:31,509
+Question now is,
+what role did Adam play
+
+382
+00:15:31,511 --> 00:15:32,660
+in their deaths?
+
+383
+00:15:32,662 --> 00:15:34,345
+WATSON:
+You think Adam helped him?
+
+384
+00:15:34,347 --> 00:15:38,666
+Well, you said it yourself:
+he sympathized with his captor.
+
+385
+00:15:38,668 --> 00:15:41,436
+Question is, to what degree?
+
+386
+00:15:41,438 --> 00:15:44,889
+We did find him
+in that van.
+
+387
+00:15:44,891 --> 00:15:47,058
+CSU is processing it
+for evidence
+
+388
+00:15:47,060 --> 00:15:49,777
+to try and prove whether
+Mariana Castillo was inside.
+
+389
+00:15:49,779 --> 00:15:52,196
+In the meantime, we've got
+Adam on auto theft,
+
+390
+00:15:52,198 --> 00:15:56,150
+but if he doesn't start
+talking to us soon,
+
+391
+00:15:56,152 --> 00:15:57,902
+we're going to run
+out of time to find
+
+392
+00:15:57,904 --> 00:16:00,121
+the Castillo girl.
+
+393
+00:16:06,545 --> 00:16:07,829
+I want to talk to him.
+
+394
+00:16:07,831 --> 00:16:09,464
+I think I can get
+through to him.
+
+395
+00:16:09,466 --> 00:16:12,733
+Holmes, this is a
+delicate situation.
+
+396
+00:16:12,735 --> 00:16:14,969
+And I can, on occasion, be
+indelicate, I'm well aware,
+
+397
+00:16:14,971 --> 00:16:16,387
+but if you think
+I'd do anything
+
+398
+00:16:16,389 --> 00:16:18,089
+to jeopardize the
+life of that girl...
+
+399
+00:16:18,091 --> 00:16:19,423
+Intentionally,
+of course not.
+
+400
+00:16:19,425 --> 00:16:21,425
+We're talking
+about a kid here--
+
+401
+00:16:21,427 --> 00:16:25,012
+a kid that's been traumatized,
+maybe even brainwashed.
+
+402
+00:16:25,014 --> 00:16:27,548
+A kid who wouldn't even be
+here if it wasn't for me.
+
+403
+00:16:27,550 --> 00:16:30,234
+What, oh, you think that gives
+you the right to question him?
+
+404
+00:16:30,236 --> 00:16:32,937
+You're a consultant,
+not a cop.
+
+405
+00:16:32,939 --> 00:16:34,221
+And given
+the very real possibility
+
+406
+00:16:34,223 --> 00:16:35,523
+that the young man
+is accessory
+
+407
+00:16:35,525 --> 00:16:38,159
+to several horrific crimes,
+maybe "not a cop"
+
+408
+00:16:38,161 --> 00:16:39,994
+is exactly what he needs
+at the moment, hmm?
+
+409
+00:16:39,996 --> 00:16:42,947
+(elevator bell dings) Ten minutes--
+that's all I ask.
+
+410
+00:16:45,167 --> 00:16:47,335
+You've got five.
+
+411
+00:16:56,879 --> 00:16:59,213
+(sighing)
+
+412
+00:17:02,634 --> 00:17:05,052
+Hello, Adam.
+
+413
+00:17:05,054 --> 00:17:08,606
+My name is Sherlock.
+
+414
+00:17:08,608 --> 00:17:10,424
+You can probably tell
+from my accent,
+
+415
+00:17:10,426 --> 00:17:12,977
+I'm not a New York City
+police officer,
+
+416
+00:17:12,979 --> 00:17:15,530
+nor am I
+a psychiatrist,
+
+417
+00:17:15,532 --> 00:17:18,032
+which makes me the only person
+you're going to talk to today
+
+418
+00:17:18,034 --> 00:17:20,568
+who isn't going
+to lie to you.
+
+419
+00:17:22,604 --> 00:17:24,605
+The people
+who were here earlier--
+
+420
+00:17:24,607 --> 00:17:27,608
+Detective Bell
+and the others--
+
+421
+00:17:27,610 --> 00:17:30,962
+they told you that the man
+who took you seven years ago
+
+422
+00:17:30,964 --> 00:17:35,800
+was a bad man,
+that he hurt you, abused you.
+
+423
+00:17:35,802 --> 00:17:38,719
+But they don't know
+the whole story, do they?
+
+424
+00:17:38,721 --> 00:17:40,721
+He also took care of you,
+
+425
+00:17:40,723 --> 00:17:43,975
+kept a roof over your head,
+
+426
+00:17:43,977 --> 00:17:46,177
+taught you to drive.
+
+427
+00:17:46,179 --> 00:17:48,179
+Loved you.
+
+428
+00:17:48,181 --> 00:17:50,848
+My father
+packed me off
+
+429
+00:17:50,850 --> 00:17:53,317
+to boarding school when I was
+just eight years old.
+
+430
+00:17:53,319 --> 00:17:54,986
+(chuckles)
+
+431
+00:17:54,988 --> 00:17:56,637
+I was a little bit
+of a know-it-all--
+
+432
+00:17:56,639 --> 00:17:59,740
+well, I was
+a massive know-it-all, actually.
+
+433
+00:17:59,742 --> 00:18:01,525
+Turned a lot of the other boys
+
+434
+00:18:01,527 --> 00:18:03,310
+at the school against me, hmm,
+
+435
+00:18:03,312 --> 00:18:05,930
+especially one
+by the name of Anders Larson.
+
+436
+00:18:06,982 --> 00:18:09,283
+Now, over the course
+of the next year,
+
+437
+00:18:09,285 --> 00:18:10,785
+Anders took his anger
+
+438
+00:18:10,787 --> 00:18:15,539
+out on me in, uh,
+myriad cruel and terrible ways--
+
+439
+00:18:15,541 --> 00:18:19,210
+nothing close to what
+you experienced, of course, but
+
+440
+00:18:19,212 --> 00:18:21,512
+it seemed worth mentioning.
+
+441
+00:18:21,514 --> 00:18:26,300
+You see...
+the more Anders hurt me...
+
+442
+00:18:27,336 --> 00:18:29,337
+...the more I felt gratitude
+
+443
+00:18:29,339 --> 00:18:32,607
+that he was actually
+paying attention to me.
+
+444
+00:18:32,609 --> 00:18:34,525
+That in, in tormenting me,
+he was attempting
+
+445
+00:18:34,527 --> 00:18:38,713
+to correct what I knew
+to be wrong with myself.
+
+446
+00:18:38,715 --> 00:18:40,615
+One day,
+
+447
+00:18:40,617 --> 00:18:45,820
+after a particularly brutal
+lesson...
+
+448
+00:18:46,905 --> 00:18:48,856
+...left me in a very bad way,
+
+449
+00:18:48,858 --> 00:18:52,426
+a teacher asked me
+who was responsible.
+
+450
+00:18:52,428 --> 00:18:54,578
+I said I'd fallen
+down the stairs.
+
+451
+00:18:54,580 --> 00:18:56,363
+Funny, the things
+that we do
+
+452
+00:18:56,365 --> 00:18:58,416
+for the people
+that we care about.
+
+453
+00:19:00,052 --> 00:19:02,837
+Uh, did he do that to you--
+
+454
+00:19:02,839 --> 00:19:05,456
+the person that you care about?
+
+455
+00:19:05,458 --> 00:19:08,092
+No.
+
+456
+00:19:08,094 --> 00:19:09,727
+I was in my room
+
+457
+00:19:09,729 --> 00:19:13,547
+the other night...
+and it was hot.
+
+458
+00:19:13,549 --> 00:19:15,616
+I tried to open the window,
+but it was stuck,
+
+459
+00:19:15,618 --> 00:19:17,785
+and my hand went
+through the pane.
+
+460
+00:19:18,687 --> 00:19:20,071
+(whispers
+indistinctly)
+
+461
+00:19:20,073 --> 00:19:22,256
+And he took care of me.
+
+462
+00:19:24,293 --> 00:19:26,243
+He put a bandage on it.
+
+463
+00:19:26,245 --> 00:19:27,445
+Of course he did.
+
+464
+00:19:27,447 --> 00:19:28,496
+He loves you.
+
+465
+00:19:28,498 --> 00:19:30,498
+He does everything for me.
+
+466
+00:19:30,500 --> 00:19:31,732
+He comes home
+
+467
+00:19:31,734 --> 00:19:33,417
+every morning
+and brings me doughnuts.
+
+468
+00:19:33,419 --> 00:19:35,286
+He doesn't need to, but he does.
+
+469
+00:19:35,288 --> 00:19:37,338
+I never even asked...
+
+470
+00:19:37,340 --> 00:19:38,789
+No more questions.
+
+471
+00:19:38,791 --> 00:19:40,240
+He lawyered up.
+
+472
+00:19:40,242 --> 00:19:41,292
+Via telepathy?
+
+473
+00:19:41,294 --> 00:19:42,310
+Via his parents.
+
+474
+00:19:42,312 --> 00:19:44,929
+They're here.
+
+475
+00:19:44,931 --> 00:19:46,580
+I'm sorry, I
+know you have
+
+476
+00:19:46,582 --> 00:19:48,415
+questions for
+Adam, but come on,
+
+477
+00:19:48,417 --> 00:19:50,518
+you think we don't know that
+you think Adam may have had
+
+478
+00:19:50,520 --> 00:19:51,635
+something to do
+with what happened
+
+479
+00:19:51,637 --> 00:19:53,521
+to the other
+children?
+
+480
+00:19:53,523 --> 00:19:55,473
+It's a possibility, yes,
+
+481
+00:19:55,475 --> 00:19:57,525
+which is why we'd like
+to keep talking to him--
+
+482
+00:19:57,527 --> 00:20:00,561
+to see if he can help us find
+Mariana Castillo.
+
+483
+00:20:00,563 --> 00:20:04,281
+I can't imagine what they're
+going through right now.
+
+484
+00:20:04,283 --> 00:20:05,432
+Hmm?
+
+485
+00:20:05,434 --> 00:20:06,600
+By the way, that was
+really something
+
+486
+00:20:06,602 --> 00:20:08,369
+back there with Adam.
+
+487
+00:20:08,371 --> 00:20:11,322
+The story about your bully
+was really very moving.
+
+488
+00:20:11,324 --> 00:20:12,540
+Any of it true?
+
+489
+00:20:12,542 --> 00:20:15,409
+I went
+to boarding school.
+
+490
+00:20:15,411 --> 00:20:17,411
+ATTORNEY: You should know, Captain,
+that we've already broached
+
+491
+00:20:17,413 --> 00:20:19,246
+the possibility
+of an immunity deal
+
+492
+00:20:19,248 --> 00:20:21,382
+with the district attorney's
+office.
+
+493
+00:20:21,384 --> 00:20:23,050
+Adam would be given immunity
+for any crimes
+
+494
+00:20:23,052 --> 00:20:24,218
+he may have been compelled
+to commit
+
+495
+00:20:24,220 --> 00:20:26,120
+by the individual who took him,
+
+496
+00:20:26,122 --> 00:20:29,223
+and in exchange he'd tell you
+everything he knows about the man.
+
+497
+00:20:29,225 --> 00:20:31,392
+He'll also help you try and locate
+the bodies of the victims
+
+498
+00:20:31,394 --> 00:20:32,566
+that were never recovered.
+
+499
+00:20:32,591 --> 00:20:34,295
+We expect to hear back
+from the D.A. by morning.
+
+500
+00:20:34,296 --> 00:20:36,731
+By then it may be too late
+for the Castillo girl.
+
+501
+00:20:36,733 --> 00:20:38,465
+ATTORNEY: Which is why we
+very much hope
+
+502
+00:20:38,467 --> 00:20:40,985
+that you'll support
+our proposal.
+
+503
+00:20:41,853 --> 00:20:44,488
+Excuse me, I'm sorry.
+
+504
+00:20:47,743 --> 00:20:50,111
+Yes?
+
+505
+00:20:50,113 --> 00:20:51,195
+Support the proposal,
+don't support it.
+
+506
+00:20:51,197 --> 00:20:52,747
+It doesn't matter.
+
+507
+00:20:52,749 --> 00:20:54,415
+My conversation with Adam
+may have been aborted,
+
+508
+00:20:54,417 --> 00:20:56,167
+but it was far
+from a total waste.
+
+509
+00:20:56,169 --> 00:20:58,002
+What do you mean?
+Adam said the Balloon Man
+
+510
+00:20:58,004 --> 00:21:00,337
+comes home every morning
+with doughnuts.
+
+511
+00:21:00,339 --> 00:21:01,589
+That means he works nights.
+
+512
+00:21:01,591 --> 00:21:04,158
+It doesn't sound
+like much, I know,
+
+513
+00:21:04,160 --> 00:21:05,993
+but it's more than we previously
+knew about him.
+
+514
+00:21:05,995 --> 00:21:07,545
+And you think
+you can run with that?
+
+515
+00:21:07,547 --> 00:21:10,347
+From a drop of water, a logician
+can infer the possibility
+
+516
+00:21:10,349 --> 00:21:11,715
+of an Atlantic or a Niagara
+
+517
+00:21:11,717 --> 00:21:13,768
+without having seen
+or heard of either one.
+
+518
+00:21:13,770 --> 00:21:15,052
+I've got my drop of water.
+
+519
+00:21:15,054 --> 00:21:17,021
+Now allow me to infer.
+
+520
+00:21:18,273 --> 00:21:20,274
+WATSON: He worked nights-- you
+think that's really going
+
+521
+00:21:20,276 --> 00:21:21,859
+to be enough to identify
+the Balloon Man?
+
+522
+00:21:21,861 --> 00:21:23,561
+Of course not,
+but it's a start.
+
+523
+00:21:23,563 --> 00:21:25,362
+Our previous suspect pool
+included
+
+524
+00:21:25,364 --> 00:21:27,314
+virtually every man in the city.
+
+525
+00:21:27,316 --> 00:21:30,534
+Now it's been reduced
+to every man who works nights.
+
+526
+00:21:30,536 --> 00:21:32,403
+You're gonna stay up all
+night again, aren't you?
+
+527
+00:21:32,405 --> 00:21:34,038
+You can't stop me,
+Watson.
+
+528
+00:21:34,040 --> 00:21:35,906
+I don't care how I look,
+I don't care how I smell,
+
+529
+00:21:35,908 --> 00:21:38,075
+I'm not going to sleep.
+
+530
+00:21:38,077 --> 00:21:40,294
+Well, I have no intention
+of stopping you.
+
+531
+00:21:40,296 --> 00:21:42,630
+I mean, what you're doing
+to your body isn't healthy,
+
+532
+00:21:42,632 --> 00:21:44,832
+you know, especially for
+someone so fresh out of rehab,
+
+533
+00:21:44,834 --> 00:21:46,133
+but I get it.
+
+534
+00:21:46,135 --> 00:21:47,751
+I will happily loan you
+my ears if it means
+
+535
+00:21:47,753 --> 00:21:49,136
+getting Mariana Castillo
+back alive and well.
+
+536
+00:21:49,138 --> 00:21:51,705
+I appreciate that,
+but at the moment
+
+537
+00:21:51,707 --> 00:21:52,973
+I do not require
+a listener.
+
+538
+00:21:52,975 --> 00:21:54,475
+I will have nothing
+to talk about
+
+539
+00:21:54,477 --> 00:21:57,044
+until I've reviewed
+all of these files.
+
+540
+00:21:57,046 --> 00:21:58,879
+All right, then,
+I'll take a box.
+
+541
+00:21:58,881 --> 00:22:00,598
+No, no, no, it doesn't
+work like that.
+
+542
+00:22:00,600 --> 00:22:01,899
+My brain is the filter
+
+543
+00:22:01,901 --> 00:22:03,601
+all this needs to go
+through, not yours.
+
+544
+00:22:03,603 --> 00:22:06,053
+I need to read every
+word, study every image.
+
+545
+00:22:06,055 --> 00:22:07,521
+All right, then,
+I'll help you stay awake.
+
+546
+00:22:07,523 --> 00:22:08,739
+All right, you know
+where the coffee is.
+
+547
+00:22:08,741 --> 00:22:10,390
+It's not
+about the coffee.
+
+548
+00:22:10,392 --> 00:22:12,610
+Whoa, then, what
+are you proposing?
+
+549
+00:22:12,612 --> 00:22:14,161
+I'm gonna teach you
+something--
+
+550
+00:22:14,163 --> 00:22:17,248
+a little trick that I learned
+back in medical school.
+
+551
+00:22:17,250 --> 00:22:19,083
+(sighs)
+
+552
+00:22:19,085 --> 00:22:21,252
+(exhaling)
+
+553
+00:22:22,254 --> 00:22:25,256
+This is what they taught
+you in medical school?
+
+554
+00:22:25,258 --> 00:22:28,509
+When I was cramming for a test
+and I was tired,
+
+555
+00:22:28,511 --> 00:22:31,178
+I would do a hundred of these,
+get my blood pumping.
+
+556
+00:22:31,180 --> 00:22:34,265
+Kept me from falling asleep.
+
+557
+00:22:34,267 --> 00:22:35,483
+I was valedictorian.
+
+558
+00:22:36,351 --> 00:22:38,385
+I'm just saying.
+
+559
+00:23:00,308 --> 00:23:01,625
+Watson!
+
+560
+00:23:01,627 --> 00:23:03,327
+He changed jobs.
+
+561
+00:23:03,329 --> 00:23:04,545
+Who?
+
+562
+00:23:04,547 --> 00:23:05,946
+The Balloon Man.
+
+563
+00:23:05,948 --> 00:23:07,781
+A few years ago, the
+FBI worked a theory
+
+564
+00:23:07,783 --> 00:23:09,667
+that he was an
+exterminator.
+
+565
+00:23:09,669 --> 00:23:11,952
+Adam Kemper's family had
+had their house fumigated
+
+566
+00:23:11,954 --> 00:23:13,387
+just the week before
+he disappeared.
+
+567
+00:23:13,389 --> 00:23:14,722
+Yes, I'm still
+holding, yes.
+
+568
+00:23:14,724 --> 00:23:16,640
+No one thought
+much of it
+
+569
+00:23:16,642 --> 00:23:20,227
+until these were taken
+
+570
+00:23:20,229 --> 00:23:23,964
+right outside the homes
+of victims two and three.
+
+571
+00:23:23,966 --> 00:23:25,683
+Oh, both neighbors
+had their houses tented.
+
+572
+00:23:25,685 --> 00:23:30,020
+In 2008, the FBI interviewed
+all 35 of the employees
+
+573
+00:23:30,022 --> 00:23:32,306
+of the company that
+fumigated the Kempers' home,
+
+574
+00:23:32,308 --> 00:23:34,108
+but failed to elicit
+any strong suspects.
+
+575
+00:23:34,110 --> 00:23:36,076
+They eventually discarded their
+theory when no connection
+
+576
+00:23:36,078 --> 00:23:38,312
+to extermination was found
+in or around the homes
+
+577
+00:23:38,314 --> 00:23:39,914
+of the subsequent victims.
+
+578
+00:23:39,916 --> 00:23:42,032
+See, the thing is, I think
+they were onto something.
+
+579
+00:23:42,034 --> 00:23:44,418
+I think the Balloon Man
+<i>was</i> an exterminator,
+
+580
+00:23:44,420 --> 00:23:47,087
+but then changed jobs between
+victims three and four.
+
+581
+00:23:47,089 --> 00:23:48,672
+See this?
+
+582
+00:23:48,674 --> 00:23:51,292
+It's a copy of <i>The</i>
+<i>Investor's Post.</i>
+
+583
+00:23:51,294 --> 00:23:53,127
+You can tell from
+the distinctive
+
+584
+00:23:53,129 --> 00:23:55,012
+salmon-colored
+paper stock.
+
+585
+00:23:55,014 --> 00:23:57,131
+The parents of victim number
+four had a subscription.
+
+586
+00:23:57,133 --> 00:23:59,166
+As do the parents
+of Mariana Castillo,
+
+587
+00:23:59,168 --> 00:24:00,500
+the most recent victim.
+
+588
+00:24:00,502 --> 00:24:02,269
+I saw one in their
+kitchen yesterday.
+
+589
+00:24:02,271 --> 00:24:05,022
+<i>The parents of victims</i>
+<i>five, six and seven</i>
+
+590
+00:24:05,024 --> 00:24:08,025
+are not subscribers, but
+have neighbors who are.
+
+591
+00:24:08,027 --> 00:24:11,812
+So the Balloon Man <i>was</i> an
+exterminator; now he delivers
+
+592
+00:24:11,814 --> 00:24:14,514
+papers at night for
+<i>The Investor's Post.</i>
+
+593
+00:24:14,516 --> 00:24:16,734
+Mm, he identified his first
+three victims through
+
+594
+00:24:16,736 --> 00:24:19,686
+his first job, his last five
+victims through his second.
+
+595
+00:24:19,688 --> 00:24:21,338
+I'm on the phone
+with the paper now.
+
+596
+00:24:21,340 --> 00:24:23,290
+They're telling me the name
+of the man responsible
+
+597
+00:24:23,292 --> 00:24:24,524
+for the Castillos' route.
+
+598
+00:24:24,526 --> 00:24:26,327
+They think I'm
+a subscriber,
+
+599
+00:24:26,329 --> 00:24:29,663
+looking to send
+a belated tip.
+
+600
+00:24:29,665 --> 00:24:30,881
+Yes, yes, hello.
+
+601
+00:24:35,570 --> 00:24:36,553
+Thank you so much.
+
+602
+00:24:36,555 --> 00:24:37,755
+Thank you.
+
+603
+00:24:43,645 --> 00:24:46,897
+See any familiar names?
+
+604
+00:24:46,899 --> 00:24:50,250
+♪.
+
+605
+00:24:52,804 --> 00:24:54,822
+GREGSON:
+<i>Abbott's mother is listed</i>
+
+606
+00:24:54,824 --> 00:24:58,492
+as the owner of the apartment,
+but she died six months ago.
+
+607
+00:24:59,995 --> 00:25:02,813
+<i>He put it as his home address</i>
+<i>the last time</i>
+
+608
+00:25:02,815 --> 00:25:04,164
+he renewed his driver's license.
+
+609
+00:25:12,624 --> 00:25:14,675
+Clear!
+
+610
+00:25:18,596 --> 00:25:20,364
+Clear!
+
+611
+00:25:24,602 --> 00:25:25,719
+Clear!
+
+612
+00:25:25,721 --> 00:25:26,804
+We got nothing, Captain.
+
+613
+00:25:26,806 --> 00:25:28,188
+The place is clean.
+
+614
+00:25:29,691 --> 00:25:32,092
+What's that?
+
+615
+00:25:32,094 --> 00:25:33,727
+GREGSON:
+Smith, Smith,
+
+616
+00:25:33,729 --> 00:25:34,695
+head back to that room.
+
+617
+00:25:34,697 --> 00:25:35,946
+Copy that.
+
+618
+00:25:43,071 --> 00:25:44,555
+BELL:
+"Congrats."
+
+619
+00:25:44,557 --> 00:25:45,539
+To who?
+
+620
+00:25:45,541 --> 00:25:46,523
+To us.
+
+621
+00:25:46,525 --> 00:25:47,908
+For finding his place.
+
+622
+00:25:47,910 --> 00:25:51,161
+GREGSON: Smith, what is that
+on the balloon?
+
+623
+00:25:53,614 --> 00:25:55,916
+Bringing it to you, Captain.
+
+624
+00:26:01,206 --> 00:26:04,341
+You have something that's mine.
+
+625
+00:26:04,343 --> 00:26:05,809
+You have Adam.
+
+626
+00:26:05,811 --> 00:26:08,846
+You know who I am
+and you know what I can do.
+
+627
+00:26:08,848 --> 00:26:11,014
+I've already killed six people.
+
+628
+00:26:12,800 --> 00:26:14,835
+If you haven't
+released my son back to me
+
+629
+00:26:14,837 --> 00:26:17,521
+by noon tomorrow,
+
+630
+00:26:17,523 --> 00:26:19,690
+you can make it seven.
+
+631
+00:26:31,339 --> 00:26:32,440
+Please.
+
+632
+00:26:32,442 --> 00:26:33,808
+Make the trade.
+
+633
+00:26:33,810 --> 00:26:35,776
+Bring us back our daughter.
+
+634
+00:26:35,778 --> 00:26:37,344
+I'm afraid it's not that simple,
+Mrs. Castillo.
+
+635
+00:26:37,346 --> 00:26:40,181
+The department can't trade
+one victim for another.
+
+636
+00:26:40,183 --> 00:26:43,016
+Is that what you really
+think Adam Kemper is?
+
+637
+00:26:43,018 --> 00:26:45,202
+I saw on the news
+this morning,
+
+638
+00:26:45,204 --> 00:26:47,071
+the D.A. offered him
+an immunity deal.
+
+639
+00:26:47,073 --> 00:26:49,957
+If he's just a victim, what
+does he need immunity from?
+
+640
+00:26:49,959 --> 00:26:51,692
+Given the givens
+in this case,
+
+641
+00:26:51,694 --> 00:26:53,994
+the D.A. felt
+he had to offer that deal.
+
+642
+00:26:53,996 --> 00:26:56,764
+Now, I know the media
+has broached the possibility
+
+643
+00:26:56,766 --> 00:26:59,967
+of Adam being involved somehow
+in the Balloon Man's crimes,
+
+644
+00:26:59,969 --> 00:27:02,052
+but we haven't confirmed
+any of that yet.
+
+645
+00:27:02,054 --> 00:27:04,755
+So how long do we wait for
+you to confirm something?
+
+646
+00:27:04,757 --> 00:27:07,091
+Um, an hour, a day, a week?
+
+647
+00:27:07,093 --> 00:27:10,427
+I mean, he just said we only
+have till noon tomorrow.
+
+648
+00:27:10,429 --> 00:27:12,313
+Mr. Castillo...
+Has anybody asked Adam Kemper
+
+649
+00:27:12,315 --> 00:27:13,330
+what he wants?
+
+650
+00:27:13,332 --> 00:27:15,316
+He's 19-- an adult.
+
+651
+00:27:15,318 --> 00:27:17,735
+If he was really some sort of
+partner to this monster,
+
+652
+00:27:17,737 --> 00:27:21,221
+then isn't it possible
+that he wants to go back?
+
+653
+00:27:21,223 --> 00:27:22,573
+Victims of horrific abuse
+
+654
+00:27:22,575 --> 00:27:25,058
+are often protective
+of their abusers.
+
+655
+00:27:25,060 --> 00:27:27,561
+It doesn't mean we should
+send them back for seconds.
+
+656
+00:27:27,563 --> 00:27:29,029
+GREGSON:
+No, listen,
+
+657
+00:27:29,031 --> 00:27:30,831
+the immunity deal
+is on the table.
+
+658
+00:27:30,833 --> 00:27:32,466
+Then why hasn't
+he taken it?
+
+659
+00:27:32,468 --> 00:27:33,901
+Because he's been
+traumatized.
+
+660
+00:27:33,903 --> 00:27:36,537
+He's hardly speaking,
+even to his own parents.
+
+661
+00:27:37,589 --> 00:27:39,340
+Come on.
+
+662
+00:27:45,130 --> 00:27:48,382
+If anything happens
+to our daughter,
+
+663
+00:27:48,384 --> 00:27:50,668
+your head is the one we're going
+to be calling for in the press.
+
+664
+00:27:57,392 --> 00:27:59,727
+(door closes)
+
+665
+00:27:59,729 --> 00:28:01,061
+So now what?
+
+666
+00:28:01,063 --> 00:28:02,396
+We go back to the files.
+
+667
+00:28:02,398 --> 00:28:04,264
+We see if there's
+any clue that we missed
+
+668
+00:28:04,266 --> 00:28:05,900
+as to where Abbott is
+keeping the girl.
+
+669
+00:28:05,902 --> 00:28:07,434
+That's one option.
+
+670
+00:28:07,436 --> 00:28:08,736
+You have another?
+
+671
+00:28:08,738 --> 00:28:10,538
+When Adam's parents
+hired a lawyer,
+
+672
+00:28:10,540 --> 00:28:13,073
+they put a wall
+between him and the NYPD.
+
+673
+00:28:13,075 --> 00:28:15,108
+No cop can talk to him.
+
+674
+00:28:15,110 --> 00:28:16,827
+No cop.
+
+675
+00:28:16,829 --> 00:28:19,446
+That's interesting.
+
+676
+00:28:19,448 --> 00:28:21,282
+And where is he now?
+
+677
+00:28:21,284 --> 00:28:22,499
+What?
+
+678
+00:28:22,501 --> 00:28:23,951
+I'm sore.
+
+679
+00:28:23,953 --> 00:28:25,886
+Only did about a thousand
+squats last night.
+
+680
+00:28:25,888 --> 00:28:30,090
+Listen, I wanted to thank
+you for all of your help.
+
+681
+00:28:30,092 --> 00:28:31,809
+Well, always happy
+to listen.
+
+682
+00:28:31,811 --> 00:28:33,143
+No, no, no,
+actually, Watson,
+
+683
+00:28:33,145 --> 00:28:34,845
+I was the one who
+listened last night,
+
+684
+00:28:34,847 --> 00:28:37,348
+and I heard someone who
+was willing to accommodate
+
+685
+00:28:37,350 --> 00:28:39,733
+the difficult process
+of a difficult person
+
+686
+00:28:39,735 --> 00:28:41,101
+for the greater good.
+
+687
+00:28:41,103 --> 00:28:44,104
+It's a rare quality,
+in my experience.
+
+688
+00:28:44,106 --> 00:28:47,191
+I may even listen to you
+again in the future.
+
+689
+00:28:47,193 --> 00:28:49,977
+Not your sobriety
+twaddle, of course.
+
+690
+00:28:49,979 --> 00:28:51,946
+Just your thoughts
+on cases.
+
+691
+00:29:03,258 --> 00:29:04,925
+Thank you
+for seeing me, Adam.
+
+692
+00:29:04,927 --> 00:29:06,827
+You're the only
+one who gets it.
+
+693
+00:29:06,829 --> 00:29:08,879
+(chuckles softly)
+
+694
+00:29:08,881 --> 00:29:11,348
+Well, you know by now we've
+identified him, don't you?
+
+695
+00:29:11,350 --> 00:29:13,267
+Samuel Abbott?
+
+696
+00:29:13,269 --> 00:29:14,635
+Are you worried about him?
+
+697
+00:29:14,637 --> 00:29:16,336
+He's my dad.
+
+698
+00:29:16,338 --> 00:29:18,923
+Is that why you've been hesitant
+to sign the immunity deal?
+
+699
+00:29:18,925 --> 00:29:21,675
+Would you turn in your dad?
+
+700
+00:29:21,677 --> 00:29:23,777
+I'd trade my dad for a Tic Tac,
+
+701
+00:29:23,779 --> 00:29:27,181
+but that's my dad, not yours.
+
+702
+00:29:27,183 --> 00:29:30,818
+The sooner we find him,
+the better off he'll be.
+
+703
+00:29:30,820 --> 00:29:33,988
+He hasn't hurt
+Mariana Castillo yet.
+
+704
+00:29:33,990 --> 00:29:37,574
+You loved him...
+
+705
+00:29:37,576 --> 00:29:40,494
+but you didn't love
+what he did.
+
+706
+00:29:40,496 --> 00:29:42,296
+I can tell.
+
+707
+00:29:44,432 --> 00:29:48,368
+He did make you help
+with the others, didn't he?
+
+708
+00:29:49,370 --> 00:29:51,422
+He's my dad.
+
+709
+00:29:51,424 --> 00:29:54,141
+That doesn't mean
+it wasn't hard.
+
+710
+00:29:56,261 --> 00:29:59,346
+Is that why you didn't want
+to sign the deal?
+
+711
+00:29:59,348 --> 00:30:02,215
+Because you don't feel
+you deserve it?
+
+712
+00:30:10,025 --> 00:30:11,408
+I never...
+
+713
+00:30:11,410 --> 00:30:16,063
+I never knew why it was
+so important to him.
+
+714
+00:30:16,065 --> 00:30:17,731
+But I loved him.
+
+715
+00:30:17,733 --> 00:30:20,501
+And when he asked me to take--
+help take the others,
+
+716
+00:30:20,503 --> 00:30:22,202
+then I told him I'd do that.
+
+717
+00:30:22,204 --> 00:30:23,487
+It's okay.
+
+718
+00:30:23,489 --> 00:30:24,738
+No, it isn't.
+
+719
+00:30:24,740 --> 00:30:26,507
+Nothing's okay.
+I'm so confused.
+
+720
+00:30:26,509 --> 00:30:28,408
+I don't know what
+I'm supposed to do.
+
+721
+00:30:28,410 --> 00:30:29,927
+(sniffling)
+
+722
+00:30:33,848 --> 00:30:36,383
+You told me the other day
+that you'd never lie to me.
+
+723
+00:30:36,385 --> 00:30:39,503
+That's right.
+
+724
+00:30:39,505 --> 00:30:41,805
+So tell me.
+
+725
+00:30:41,807 --> 00:30:44,191
+If I sign that deal,
+
+726
+00:30:44,193 --> 00:30:46,360
+and if I tell you
+where you can find him,
+
+727
+00:30:46,362 --> 00:30:49,580
+do you think it'll make up
+for the things I've done?
+
+728
+00:30:51,383 --> 00:30:53,617
+No, I don't.
+
+729
+00:30:54,953 --> 00:30:58,222
+Six other children are dead,
+thanks to your dad.
+
+730
+00:30:59,974 --> 00:31:03,477
+To whatever degree
+you assisted him,
+
+731
+00:31:03,479 --> 00:31:06,113
+you will never get their blood
+off your hands.
+
+732
+00:31:12,620 --> 00:31:15,973
+But that doesn't mean
+you shouldn't try.
+
+733
+00:31:20,562 --> 00:31:24,014
+Okay.
+
+734
+00:31:24,016 --> 00:31:27,467
+I'll sign the papers.
+
+735
+00:31:27,469 --> 00:31:29,153
+I'll tell you where we live.
+
+736
+00:31:29,155 --> 00:31:30,988
+That's where
+you'll find the girl.
+
+737
+00:31:39,264 --> 00:31:40,647
+(loud banging)
+
+738
+00:31:42,250 --> 00:31:43,784
+(gasps)
+
+739
+00:31:44,636 --> 00:31:47,755
+Drop the gun and let her go.
+
+740
+00:31:52,343 --> 00:31:54,494
+Now!
+
+741
+00:31:57,916 --> 00:32:00,634
+Tell Adam I'm sorry.
+
+742
+00:32:00,636 --> 00:32:02,286
+(gunshot)
+
+743
+00:32:02,288 --> 00:32:05,305
+(indistinct radio transmissions,
+camera shutter clicking)
+
+744
+00:32:07,025 --> 00:32:09,276
+Mariana's okay.
+
+745
+00:32:09,278 --> 00:32:10,611
+She's terrified.
+
+746
+00:32:10,613 --> 00:32:12,646
+She hasn't been hurt.
+
+747
+00:32:12,648 --> 00:32:15,482
+You can go home, get some rest.
+
+748
+00:32:17,068 --> 00:32:18,485
+You okay?
+
+749
+00:32:18,487 --> 00:32:20,404
+He wasn't what I was expecting.
+
+750
+00:32:20,406 --> 00:32:22,739
+Who?
+Samuel Abbott.
+
+751
+00:32:22,741 --> 00:32:24,541
+He dominated Adam.
+
+752
+00:32:24,543 --> 00:32:26,526
+I was expecting
+a more virile man.
+
+753
+00:32:26,528 --> 00:32:28,378
+Just seems a bit...
+
+754
+00:32:28,380 --> 00:32:30,798
+feeble.
+
+755
+00:32:32,667 --> 00:32:34,101
+And that back brace.
+
+756
+00:32:34,103 --> 00:32:35,869
+WATSON:
+Three scars.
+
+757
+00:32:35,871 --> 00:32:37,704
+Means major surgery, multiple
+operations, fused vertebrae.
+
+758
+00:32:37,706 --> 00:32:39,556
+Makes sense that
+he would've needed Adam
+
+759
+00:32:39,558 --> 00:32:40,757
+to help him get around.
+
+760
+00:32:40,759 --> 00:32:41,892
+(wind whistling)
+Do you hear that?
+
+761
+00:32:41,894 --> 00:32:44,311
+What?
+What...?
+
+762
+00:32:50,485 --> 00:32:51,902
+WATSON:
+My God.
+
+763
+00:32:51,904 --> 00:32:53,987
+This is where
+Adam slept?
+
+764
+00:33:00,394 --> 00:33:02,395
+(wind whistling)
+
+765
+00:33:07,735 --> 00:33:09,086
+What's wrong?
+
+766
+00:33:24,018 --> 00:33:28,355
+That man out there, Abbott,
+is not the Balloon Man.
+
+767
+00:33:35,313 --> 00:33:37,364
+HOLMES:
+Hello, Adam.
+
+768
+00:33:38,533 --> 00:33:40,567
+Mr. Holmes,
+what are you doing here?
+
+769
+00:33:40,569 --> 00:33:42,369
+Thought it was time for
+another one of our little chats.
+
+770
+00:33:42,371 --> 00:33:44,705
+How did you get into my room?
+Through the window.
+
+771
+00:33:44,707 --> 00:33:47,574
+Somehow I managed to open it
+without slicing my hand.
+
+772
+00:33:47,576 --> 00:33:48,909
+You said that...
+
+773
+00:33:48,911 --> 00:33:51,395
+you cut your hand
+trying to open a window
+
+774
+00:33:51,397 --> 00:33:52,679
+in your room.
+
+775
+00:33:52,681 --> 00:33:55,949
+<i>Your</i> room.
+Not Samuel Abbott's.
+
+776
+00:33:55,951 --> 00:33:59,786
+So imagine my surprise
+when I saw your room today.
+
+777
+00:33:59,788 --> 00:34:02,890
+Two lamps, proper bed,
+television.
+
+778
+00:34:02,892 --> 00:34:05,592
+Virtual palace
+compared to Samuel's room.
+
+779
+00:34:05,594 --> 00:34:08,428
+All he had was a stained
+mattress and a tattered sheet.
+
+780
+00:34:08,430 --> 00:34:10,731
+No, you're talking
+about <i>my</i> room.
+
+781
+00:34:10,733 --> 00:34:12,966
+That's where he made me sleep.
+No,
+
+782
+00:34:12,968 --> 00:34:14,768
+don't lie to me, Adam,
+not again.
+
+783
+00:34:14,770 --> 00:34:17,437
+You told me when we met
+that you injured your hand
+
+784
+00:34:17,439 --> 00:34:18,555
+<i>trying to open a window</i>
+
+785
+00:34:18,557 --> 00:34:20,473
+in your room,
+the master bedroom.
+
+786
+00:34:20,475 --> 00:34:21,858
+<i>That's where</i>
+<i>the broken pane was.</i>
+
+787
+00:34:21,860 --> 00:34:24,278
+Samuel Abbott
+was not the Balloon Man.
+
+788
+00:34:24,280 --> 00:34:26,046
+You were.
+
+789
+00:34:26,048 --> 00:34:28,665
+Mr. Holmes, I-I...
+I examined the pillows
+
+790
+00:34:28,667 --> 00:34:30,784
+<i>in the larger room--</i>
+<i>I found nothing</i>
+
+791
+00:34:30,786 --> 00:34:33,120
+<i>but short, dark hair--</i>
+<i>your hair.</i>
+
+792
+00:34:33,122 --> 00:34:34,922
+On the pillows
+in the smaller room,
+
+793
+00:34:34,924 --> 00:34:36,506
+I found nothing
+but Samuel's hair--
+
+794
+00:34:36,508 --> 00:34:37,958
+stringy and gray.
+
+795
+00:34:37,960 --> 00:34:39,326
+You occupied the master bedroom
+
+796
+00:34:39,328 --> 00:34:41,128
+because you were the master.
+
+797
+00:34:48,219 --> 00:34:51,004
+(quiet sigh)
+
+798
+00:34:51,006 --> 00:34:53,673
+You tricked me, Adam.
+
+799
+00:34:53,675 --> 00:34:56,843
+That doesn't happen very often.
+
+800
+00:34:56,845 --> 00:34:59,012
+I thought you were a dullard.
+
+801
+00:34:59,014 --> 00:35:01,198
+You're actually...
+
+802
+00:35:01,200 --> 00:35:03,183
+quite brilliant.
+
+803
+00:35:03,185 --> 00:35:05,018
+It must take
+a huge intellect
+
+804
+00:35:05,020 --> 00:35:08,956
+for a boy to turn the tables
+on the man who abducted him.
+
+805
+00:35:08,958 --> 00:35:11,358
+You have no idea.
+Whose idea
+
+806
+00:35:11,360 --> 00:35:13,526
+was it to take more children?
+
+807
+00:35:13,528 --> 00:35:16,063
+Was it his... or was it yours?
+
+808
+00:35:16,065 --> 00:35:19,650
+I'd just turned 14;
+I was lonely.
+
+809
+00:35:19,652 --> 00:35:23,220
+No. What you wanted was
+to make someone else the victim,
+
+810
+00:35:23,222 --> 00:35:24,655
+hurt them...
+
+811
+00:35:24,657 --> 00:35:25,922
+like you'd been hurt.
+
+812
+00:35:25,924 --> 00:35:27,874
+No, you're forgetting
+the parents.
+
+813
+00:35:27,876 --> 00:35:30,877
+They're the ones
+that I got to see on TV,
+
+814
+00:35:30,879 --> 00:35:32,613
+crying, begging
+the monster
+
+815
+00:35:32,615 --> 00:35:35,616
+who took their son or daughter
+to give them back.
+
+816
+00:35:35,618 --> 00:35:38,769
+See, when Samuel took me,
+it was very difficult at first.
+
+817
+00:35:38,771 --> 00:35:40,687
+I had to put up
+with a lot.
+
+818
+00:35:40,689 --> 00:35:42,739
+But he did let me watch TV,
+
+819
+00:35:42,741 --> 00:35:45,659
+and so I got to see
+my parents on the news
+
+820
+00:35:45,661 --> 00:35:47,944
+at least once a day, pleading
+
+821
+00:35:47,946 --> 00:35:49,613
+with Samuel
+to let me go.
+
+822
+00:35:49,615 --> 00:35:50,998
+And the funny
+thing was,
+
+823
+00:35:51,000 --> 00:35:54,001
+he wasn't
+the least bit affected.
+
+824
+00:35:54,003 --> 00:35:55,802
+But I was.
+
+825
+00:35:55,804 --> 00:35:57,237
+You got off on it.
+
+826
+00:35:57,239 --> 00:35:58,588
+I really found myself.
+
+827
+00:35:58,590 --> 00:36:01,174
+And as for how I turned
+the tables on him,
+
+828
+00:36:01,176 --> 00:36:03,043
+let's just say
+it's not very difficult
+
+829
+00:36:03,045 --> 00:36:05,178
+when your captor has an IQ
+
+830
+00:36:05,180 --> 00:36:06,747
+south of 90.
+
+831
+00:36:06,749 --> 00:36:08,715
+Psychological abuse
+followed by physical--
+
+832
+00:36:08,717 --> 00:36:10,133
+all very standard.
+
+833
+00:36:10,135 --> 00:36:12,019
+And the trade
+he proposed yesterday--
+
+834
+00:36:12,021 --> 00:36:15,055
+Mariana for me--
+wasn't even his idea.
+
+835
+00:36:15,057 --> 00:36:16,973
+It was a
+contingency plan.
+
+836
+00:36:16,975 --> 00:36:18,692
+If I ever got caught,
+he was supposed
+
+837
+00:36:18,694 --> 00:36:20,027
+to use the hostage that we had,
+
+838
+00:36:20,029 --> 00:36:21,928
+or take a new one,
+to secure my release.
+
+839
+00:36:21,930 --> 00:36:25,182
+And the idiot didn't even have
+a clue that the police
+
+840
+00:36:25,184 --> 00:36:27,801
+would never go for that
+in a million years.
+
+841
+00:36:27,803 --> 00:36:29,820
+But you knew it
+would give them incentive
+
+842
+00:36:29,822 --> 00:36:31,938
+to offer you an immunity deal.
+
+843
+00:36:33,541 --> 00:36:35,242
+Must have taken
+everything you had
+
+844
+00:36:35,244 --> 00:36:39,446
+not to jump on that deal
+the first time it came up.
+
+845
+00:36:40,481 --> 00:36:42,716
+Are you here to kill me,
+Mr. Holmes?
+
+846
+00:36:42,718 --> 00:36:45,001
+Because I
+have to admit
+
+847
+00:36:45,003 --> 00:36:49,639
+I find the possibility
+very... exciting.
+
+848
+00:36:51,793 --> 00:36:54,311
+I'm gonna go brush my teeth now.
+
+849
+00:36:54,313 --> 00:36:57,647
+I don't think you're gonna
+be here when I get back.
+
+850
+00:36:58,683 --> 00:37:00,667
+If it's any
+consolation,
+
+851
+00:37:00,669 --> 00:37:03,770
+I don't think I'm gonna stay
+in this city much longer.
+
+852
+00:37:03,772 --> 00:37:06,406
+I think it's time
+to move someplace else,
+
+853
+00:37:06,408 --> 00:37:08,942
+meet new people.
+
+854
+00:37:08,944 --> 00:37:12,312
+I'm gonna miss our little chats.
+
+855
+00:37:29,622 --> 00:37:32,409
+WATSON: I just got an e-mail from my
+friend from the D.A.'s office.
+
+856
+00:37:32,410 --> 00:37:34,493
+He said the language
+from the immunity agreement
+
+857
+00:37:34,495 --> 00:37:37,710
+is pretty ironclad. "Adam Kemper
+. is immune from prosecution."
+
+858
+00:37:37,715 --> 00:37:39,916
+"For any crimes committed
+in consort with Samuel Abbott,
+
+859
+00:37:39,917 --> 00:37:41,317
+aka the Balloon Man."
+
+860
+00:37:41,319 --> 00:37:42,902
+Yes, I'm quite familiar
+with the phrasing.
+
+861
+00:37:42,904 --> 00:37:45,604
+I've been reviewing it myself.
+
+862
+00:37:45,606 --> 00:37:49,425
+(sighs) Look, what that
+kid did is... disgusting.
+
+863
+00:37:49,427 --> 00:37:51,560
+I hate the fact that he's
+out there in the world.
+
+864
+00:37:51,562 --> 00:37:53,145
+But you did make
+a difference.
+
+865
+00:37:53,147 --> 00:37:54,313
+You saved Mariana,
+
+866
+00:37:54,315 --> 00:37:55,714
+and you told the police
+
+867
+00:37:55,716 --> 00:37:57,883
+what kind of person
+Adam Kemper really is.
+
+868
+00:37:57,885 --> 00:38:01,403
+I handed a psychopath
+a get-out-of-jail-free card.
+
+869
+00:38:02,489 --> 00:38:05,574
+You're not the only one
+he fooled.
+
+870
+00:38:05,576 --> 00:38:07,693
+If you're trying to blow off
+steam, squats would be cheaper.
+
+871
+00:38:07,695 --> 00:38:09,328
+Easier on the decor, too.
+I can't.
+
+872
+00:38:09,330 --> 00:38:11,229
+I overdid last night
+and pulled a muscle.
+
+873
+00:38:11,231 --> 00:38:12,581
+My back's been sore all day.
+
+874
+00:38:12,583 --> 00:38:15,417
+I said a hundred squats,
+not a thousand.
+
+875
+00:38:19,205 --> 00:38:21,406
+Back pain.
+
+876
+00:38:23,176 --> 00:38:24,877
+Yeah.
+
+877
+00:38:26,913 --> 00:38:29,081
+Thank you.
+
+878
+00:38:29,083 --> 00:38:31,517
+Dear sweet...
+
+879
+00:38:31,519 --> 00:38:33,168
+back pain.
+
+880
+00:38:33,170 --> 00:38:35,754
+(birds chirping)
+
+881
+00:38:48,985 --> 00:38:51,236
+Morning, Adam.
+
+882
+00:38:53,907 --> 00:38:55,107
+(exhales)
+
+883
+00:38:55,109 --> 00:38:57,042
+You picturing
+
+884
+00:38:57,044 --> 00:38:59,111
+those two begging for
+their son's life?
+
+885
+00:38:59,113 --> 00:39:02,280
+No, it's nice out-- I'm
+just passing the time.
+
+886
+00:39:02,282 --> 00:39:04,717
+You look kind of tired.
+
+887
+00:39:04,719 --> 00:39:07,336
+I'm getting that
+a lot lately.
+
+888
+00:39:07,338 --> 00:39:10,139
+Listen, before you leave town,
+I wanted to ask you
+
+889
+00:39:10,141 --> 00:39:12,157
+about William Crawford.
+
+890
+00:39:12,159 --> 00:39:13,676
+Your fifth victim.
+
+891
+00:39:13,678 --> 00:39:16,128
+Parents called him Billy.
+Ah.
+
+892
+00:39:16,130 --> 00:39:18,097
+You abducted him on April 3,
+
+893
+00:39:18,099 --> 00:39:20,065
+2009.
+Right, yeah.
+
+894
+00:39:20,067 --> 00:39:21,684
+Blond boy.
+He cried a lot.
+
+895
+00:39:21,686 --> 00:39:23,902
+Well, yes, I'm sure you
+could reminisce all day.
+
+896
+00:39:23,904 --> 00:39:26,021
+Still, not your
+cleanest work.
+
+897
+00:39:26,023 --> 00:39:29,525
+The police found
+his body on April 7.
+
+898
+00:39:29,527 --> 00:39:31,860
+Yeah, we buried him
+deeper after that.
+
+899
+00:39:31,862 --> 00:39:34,029
+Actually, let me be
+clear about that,
+
+900
+00:39:34,031 --> 00:39:36,648
+in case you have somebody listening
+to our conversations.
+
+901
+00:39:36,650 --> 00:39:39,201
+Mr. Abbott made me bury
+them deeper after that.
+
+902
+00:39:39,203 --> 00:39:42,588
+Whoever had the idea,
+I think it was a good one,
+
+903
+00:39:42,590 --> 00:39:47,459
+because the police found skin
+under William's fingernails.
+
+904
+00:39:47,461 --> 00:39:50,662
+Definitely came from
+one of his attackers.
+
+905
+00:39:50,664 --> 00:39:53,274
+We ran it against Samuel
+Abbott's DNA this morning.
+
+906
+00:39:53,374 --> 00:39:55,026
+And let me guess
+it didn't match.
+
+907
+00:39:55,469 --> 00:39:57,603
+Is this supposed
+to be scaring me?
+
+908
+00:39:57,605 --> 00:39:59,972
+It's probably mine.
+
+909
+00:39:59,974 --> 00:40:03,192
+So what?
+I have an immunity deal.
+
+910
+00:40:03,194 --> 00:40:04,977
+Yes, you do.
+You cannot be prosecuted
+
+911
+00:40:04,979 --> 00:40:08,513
+for any crimes committed, quote,
+"in consort with," unquote,
+
+912
+00:40:08,515 --> 00:40:10,282
+the Balloon Man.
+
+913
+00:40:10,284 --> 00:40:12,517
+Thing is...
+
+914
+00:40:12,519 --> 00:40:15,154
+Samuel Abbott broke
+three vertebrae in his back
+
+915
+00:40:15,156 --> 00:40:17,373
+on March 23, 2009.
+
+916
+00:40:17,375 --> 00:40:19,992
+That's why he couldn't work
+as an exterminator anymore.
+
+917
+00:40:19,994 --> 00:40:22,127
+That's why he wore a back brace.
+
+918
+00:40:22,129 --> 00:40:24,663
+The surgery had him
+in hospital for three weeks.
+
+919
+00:40:24,665 --> 00:40:28,467
+I believe he was
+in traction the entire time.
+
+920
+00:40:30,086 --> 00:40:32,638
+Difficult to abduct
+and murder a young boy
+
+921
+00:40:32,640 --> 00:40:34,372
+when you're feeling <i>well,</i>
+
+922
+00:40:34,374 --> 00:40:35,924
+I'd imagine.
+
+923
+00:40:35,926 --> 00:40:39,745
+From a hospital bed,
+I'd say it was impossible.
+
+924
+00:40:40,647 --> 00:40:42,815
+I have an immunity deal.
+
+925
+00:40:42,817 --> 00:40:47,736
+For crimes committed in consort
+with Samuel Abbott.
+
+926
+00:40:47,738 --> 00:40:52,390
+But you took William Crawford
+on your own, didn't you?
+
+927
+00:40:53,359 --> 00:40:55,577
+What happened?
+
+928
+00:40:55,579 --> 00:40:59,397
+You get bored while
+your playmate was in hospital?
+
+929
+00:41:01,251 --> 00:41:02,701
+Actually, you know what,
+don't tell me,
+
+930
+00:41:02,703 --> 00:41:05,704
+'cause... I don't care.
+
+931
+00:41:12,695 --> 00:41:14,763
+Are those for me?
+
+932
+00:41:14,765 --> 00:41:18,033
+I called them right after your
+parents told me you were in the park.
+
+933
+00:41:18,035 --> 00:41:20,586
+You're welcome
+to try and run.
+
+934
+00:41:20,588 --> 00:41:23,522
+I've recently started
+developing my core, you know?
+
+935
+00:41:23,524 --> 00:41:26,442
+Could use a bit of a workout.
+
+936
+00:41:26,444 --> 00:41:30,929
+Oh, no. A fair fight's
+not really your speed, is it?
+
+937
+00:41:34,767 --> 00:41:37,035
+It was only one murder.
+
+938
+00:41:37,037 --> 00:41:39,221
+And Samuel
+
+939
+00:41:39,223 --> 00:41:40,489
+abused me.
+
+940
+00:41:40,491 --> 00:41:42,691
+I'll be out soon.
+
+941
+00:41:43,776 --> 00:41:45,944
+(birds chirping)
+
+942
+00:41:48,798 --> 00:41:51,449
+♪ ♪
+
+943
+00:41:55,255 --> 00:41:58,290
+♪ They told me
+not to smoke drugs ♪
+
+944
+00:41:58,292 --> 00:42:01,310
+♪ Said I'd wind up in prison ♪
+What are you doing?
+
+945
+00:42:01,312 --> 00:42:03,128
+Depriving you
+of all stimuli.
+
+946
+00:42:03,130 --> 00:42:05,481
+It's time for you to get some sleep.
+What?
+
+947
+00:42:05,483 --> 00:42:07,182
+No. No, no, no, no. No.
+
+948
+00:42:07,184 --> 00:42:09,601
+Right after you solve a case
+you're flushed with success.
+
+949
+00:42:09,603 --> 00:42:11,103
+We should double down on work.
+
+950
+00:42:11,105 --> 00:42:12,104
+We?
+
+951
+00:42:12,106 --> 00:42:13,405
+You, me...
+
+952
+00:42:13,407 --> 00:42:14,773
+Angus.
+
+953
+00:42:15,859 --> 00:42:17,559
+Some combination of the three.
+
+954
+00:42:17,561 --> 00:42:20,112
+You already know
+I favor you. Mm?
+
+955
+00:42:20,114 --> 00:42:21,146
+Hey!
+
+956
+00:42:21,148 --> 00:42:22,948
+No! No! This is...
+
+957
+00:42:22,950 --> 00:42:24,666
+Right now I'm
+full of energy,
+
+958
+00:42:24,668 --> 00:42:26,084
+ideas, momentum.
+
+959
+00:42:26,086 --> 00:42:28,670
+What kind of tea is that?
+Drowsy-time tea.
+
+960
+00:42:28,672 --> 00:42:31,523
+It detoxifies and cleanses the system.
+Now is the moment
+
+961
+00:42:31,525 --> 00:42:33,992
+when a true detective
+digs into his old files.
+
+962
+00:42:33,994 --> 00:42:37,212
+You see everything
+with a new light. You'll see.
+
+963
+00:42:37,214 --> 00:42:40,966
+I'm gonna solve three
+cases by nightfall.
+
+964
+00:42:40,968 --> 00:42:43,501
+♪ You and me,
+I had to get out ♪
+
+965
+00:42:43,503 --> 00:42:45,103
+♪ And make a deal ♪
+
+966
+00:42:45,105 --> 00:42:48,140
+♪ And learn to know
+how it feels, but that... ♪
+
+967
+00:42:48,165 --> 00:42:51,997
+♪ Out of my system... ♪
+
+968
+00:42:52,022 --> 00:42:54,022
+♪ Out of my system... ♪
+
+969
+00:42:56,478 --> 00:43:00,478
+== sync, corrected by <font color="#00FF00">elderman</font> ==
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>

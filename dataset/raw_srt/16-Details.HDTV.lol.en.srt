@@ -1,0 +1,4562 @@
+﻿1
+00:00:03,978 --> 00:00:05,546
+Sherlock, you home?
+
+2
+00:00:12,826 --> 00:00:15,928
+I think we need a new bulb
+in the foyer.
+
+3
+00:00:16,829 --> 00:00:18,214
+Tell me where
+Holmes is,
+
+4
+00:00:18,216 --> 00:00:19,715
+and I'll let
+you live.
+
+5
+00:00:21,834 --> 00:00:23,636
+You looking for this?
+
+6
+00:00:25,021 --> 00:00:27,940
+I'm going to ask you
+one more time.
+
+7
+00:00:27,942 --> 00:00:30,526
+Where is Holmes?
+
+8
+00:00:34,781 --> 00:00:36,181
+That's pathetic.
+
+9
+00:00:38,034 --> 00:00:39,285
+Sherlock?
+
+10
+00:00:44,242 --> 00:00:45,791
+Now you hit me.
+Seriously?
+
+11
+00:00:45,793 --> 00:00:47,326
+What is your damage?
+
+12
+00:00:47,328 --> 00:00:48,744
+Look, given that you
+were held at gunpoint
+
+13
+00:00:48,746 --> 00:00:50,329
+in this very room
+little over a week ago,
+
+14
+00:00:50,331 --> 00:00:52,081
+I thought, perhaps,
+a test of your
+
+15
+00:00:52,083 --> 00:00:53,666
+ability to defend yourself
+was in order.
+
+16
+00:00:53,668 --> 00:00:55,367
+It was.
+
+17
+00:00:55,369 --> 00:00:57,469
+You have much to learn about
+the art of self-preservation.
+
+18
+00:00:57,471 --> 00:00:59,555
+Okay, if you ever
+do that again, I swear...
+
+19
+00:00:59,557 --> 00:01:01,507
+You'll what?
+Fall over again?
+
+20
+00:01:01,509 --> 00:01:03,142
+Look, the work I do
+is dangerous.
+
+21
+00:01:03,144 --> 00:01:04,343
+You know this,
+
+22
+00:01:04,345 --> 00:01:05,761
+yet you insist
+on accompanying me
+
+23
+00:01:05,763 --> 00:01:07,346
+virtually everywhere I go.
+
+24
+00:01:07,348 --> 00:01:09,014
+Last week, a violent criminal
+
+25
+00:01:09,016 --> 00:01:11,233
+infiltrated this brownstone
+while I wasn't here.
+
+26
+00:01:11,235 --> 00:01:13,719
+Hmm? How?
+You opened the door for him.
+
+27
+00:01:13,721 --> 00:01:15,053
+He was a federal agent.
+
+28
+00:01:15,055 --> 00:01:17,406
+Right, they never
+do anything wrong, hmm?
+
+29
+00:01:17,408 --> 00:01:18,908
+Realizing that you
+were in physical danger
+
+30
+00:01:18,910 --> 00:01:19,992
+was difficult for me.
+
+31
+00:01:19,994 --> 00:01:21,277
+If anything ever
+happened to you,
+
+32
+00:01:21,279 --> 00:01:23,112
+I'm not sure
+I could forgive myself.
+
+33
+00:01:23,114 --> 00:01:24,530
+Okay, this is not
+how you express concern
+
+34
+00:01:24,532 --> 00:01:26,064
+for someone
+that you want to keep safe.
+
+35
+00:01:26,066 --> 00:01:27,249
+Quite right,
+so I've reached out
+
+36
+00:01:27,251 --> 00:01:28,584
+to a handful
+of martial artists
+
+37
+00:01:28,586 --> 00:01:30,286
+who reside in the city,
+each one of them
+
+38
+00:01:30,288 --> 00:01:31,954
+an expert in his
+or her fighting style.
+
+39
+00:01:31,956 --> 00:01:33,405
+My hope is some
+combination of them
+
+40
+00:01:33,407 --> 00:01:34,590
+will agree to train you.
+
+41
+00:01:34,592 --> 00:01:36,342
+In the meantime,
+you should expect
+
+42
+00:01:36,344 --> 00:01:38,711
+more guerilla-style tests
+of your ability
+
+43
+00:01:38,713 --> 00:01:40,713
+to fight back.
+
+44
+00:01:42,048 --> 00:01:43,966
+You have been warned.
+
+45
+00:01:43,968 --> 00:01:45,467
+<i>This is Captain Gregson.</i>
+
+46
+00:01:45,469 --> 00:01:47,186
+<i>Leave a message.</i>
+
+47
+00:01:47,188 --> 00:01:49,021
+<i>Hey, Captain, it's Bell.</i>
+
+48
+00:01:49,023 --> 00:01:50,272
+Uh, sorry to call so late,
+
+49
+00:01:50,274 --> 00:01:51,923
+but I thought you
+would want to know
+
+50
+00:01:51,925 --> 00:01:53,442
+the Rodriguez thing
+is taken care of.
+
+51
+00:01:53,444 --> 00:01:56,695
+He finally copped
+to that holdup in Queens.
+
+52
+00:01:56,697 --> 00:01:59,031
+I'm headed home now.
+
+53
+00:01:59,033 --> 00:02:01,367
+I'll bring you up to speed
+in the morning.
+
+54
+00:02:27,782 --> 00:02:31,782
+<font color=#00FF00>♪ Elementary 1x16 ♪</font>
+<font color=#00FFFF>Details</font>
+Original Air Date on February 14 , 2013
+
+55
+00:02:31,807 --> 00:02:36,807
+== sync, corrected by <font color="#00FF00">elderman</font> ==
+
+56
+00:02:36,832 --> 00:02:57,790
+♪
+
+57
+00:03:03,523 --> 00:03:05,617
+We're still waiting
+for ballistics to come back,
+
+58
+00:03:05,642 --> 00:03:07,249
+but inital indications are
+
+59
+00:03:07,344 --> 00:03:10,805
+that this was done
+with a semiautomatic MP5.
+
+60
+00:03:10,925 --> 00:03:12,708
+The MP5 meets
+all the requirements
+
+61
+00:03:12,710 --> 00:03:15,044
+for a good,
+old-fashioned drive-by.
+
+62
+00:03:15,046 --> 00:03:17,379
+It can be held with
+one hand by a lone driver,
+
+63
+00:03:17,381 --> 00:03:18,714
+it has
+a large magazine,
+
+64
+00:03:18,716 --> 00:03:21,216
+and in the hands
+of a marksman,
+
+65
+00:03:21,218 --> 00:03:23,352
+it's quite accurate
+at close range.
+
+66
+00:03:23,354 --> 00:03:25,387
+You, sir, were not
+assailed by a marksman.
+
+67
+00:03:25,389 --> 00:03:27,890
+Well, thank God for bad aim.
+
+68
+00:03:27,892 --> 00:03:29,224
+And air bags.
+
+69
+00:03:29,226 --> 00:03:31,360
+Yep, I can tell from
+the pattern of the holes
+
+70
+00:03:31,362 --> 00:03:33,896
+that the bullets were fired
+in three-round bursts
+
+71
+00:03:33,898 --> 00:03:36,949
+from a rifle barrel
+as opposed to a smoothbore,
+
+72
+00:03:36,951 --> 00:03:39,068
+which suggests that
+whoever's behind the attack
+
+73
+00:03:39,070 --> 00:03:42,371
+has access to high-level
+firearm augmentation.
+
+74
+00:03:42,373 --> 00:03:44,156
+Even if the location
+of the holes
+
+75
+00:03:44,158 --> 00:03:46,575
+reveals him
+to have terrible aim.
+
+76
+00:03:46,577 --> 00:03:48,160
+You really shouldn't
+have jerked your wheel.
+
+77
+00:03:48,162 --> 00:03:49,828
+You would've come out
+without a scratch.
+
+78
+00:03:49,830 --> 00:03:51,213
+Now you tell me.
+
+79
+00:03:51,215 --> 00:03:53,031
+It's funny, Detective--
+the second I heard
+
+80
+00:03:53,033 --> 00:03:56,532
+about the attempt on your life,
+I dove into your case history.
+
+81
+00:03:56,657 --> 00:03:59,057
+I thought it would be
+only a matter of time
+
+82
+00:03:59,059 --> 00:04:00,359
+before the culprit's identity
+presented itself.
+
+83
+00:04:00,361 --> 00:04:01,777
+I was wrong.
+
+84
+00:04:01,779 --> 00:04:03,446
+You've done excellent work
+over the years.
+
+85
+00:04:03,448 --> 00:04:05,131
+Made a lot of enemies.
+There's no shortage
+
+86
+00:04:05,133 --> 00:04:06,749
+of people who would like
+to see you dead.
+
+87
+00:04:06,751 --> 00:04:08,451
+You say it like
+it's a good thing.
+
+88
+00:04:08,453 --> 00:04:09,952
+Well, there is,
+in my humble opinion,
+
+89
+00:04:09,954 --> 00:04:12,621
+no greater compliment
+an investigator can receive.
+
+90
+00:04:12,623 --> 00:04:14,740
+Speaks to the quality
+of your work.
+
+91
+00:04:14,742 --> 00:04:17,376
+Well, do you think we should
+dive back into the files
+
+92
+00:04:17,378 --> 00:04:19,578
+and get more specific
+about who was trying
+
+93
+00:04:19,580 --> 00:04:21,580
+to compliment Detective Bell
+last night?
+
+94
+00:04:21,582 --> 00:04:23,432
+Uh, no need,
+actually.
+
+95
+00:04:23,434 --> 00:04:25,968
+I know exactly who did this.
+
+96
+00:04:27,270 --> 00:04:28,771
+Curtis Bradshaw.
+
+97
+00:04:28,773 --> 00:04:30,639
+Old-school gangster
+
+98
+00:04:30,641 --> 00:04:31,857
+and all-around
+scumbag.
+
+99
+00:04:31,859 --> 00:04:33,309
+He was the target
+of a detail
+
+100
+00:04:33,311 --> 00:04:34,610
+I was assigned to
+in '09,
+
+101
+00:04:34,612 --> 00:04:36,061
+back when I was
+still a uni.
+
+102
+00:04:36,063 --> 00:04:37,893
+Aspiring drug kingpin, I see.
+
+103
+00:04:37,894 --> 00:04:38,974
+At the height
+of his power,
+
+104
+00:04:38,975 --> 00:04:40,975
+he was selling product
+all over the city.
+
+105
+00:04:40,977 --> 00:04:43,828
+Had a crew of almost 100,
+and they were moving in
+
+106
+00:04:43,830 --> 00:04:45,864
+on other gangs' territories,
+so it was getting bloody.
+
+107
+00:04:45,865 --> 00:04:47,564
+Hence the detail.
+
+108
+00:04:47,566 --> 00:04:49,516
+Says here he was suspected
+of crimes
+
+109
+00:04:49,518 --> 00:04:51,318
+ranging from racketeering
+to torture
+
+110
+00:04:51,320 --> 00:04:52,736
+and murder.
+
+111
+00:04:52,738 --> 00:04:54,404
+Yet he was arrested in 2011
+
+112
+00:04:54,406 --> 00:04:57,241
+on the mere charge
+of possessing stolen property.
+
+113
+00:04:57,243 --> 00:04:59,243
+Sentence to three years,
+just served 18 months.
+
+114
+00:04:59,779 --> 00:05:03,947
+Bradshaw was smarter
+than your average street thug.
+
+115
+00:05:03,949 --> 00:05:05,499
+He always flew
+under the radar;
+
+116
+00:05:05,501 --> 00:05:07,067
+kept just enough
+distance between himself
+
+117
+00:05:07,069 --> 00:05:09,086
+and the crimes that were
+being committed by his crew.
+
+118
+00:05:09,088 --> 00:05:11,955
+One of the detectives
+on the detail...
+
+119
+00:05:11,957 --> 00:05:13,874
+well, he got frustrated.
+
+120
+00:05:13,876 --> 00:05:15,408
+Stole some heroin
+from the evidence room
+
+121
+00:05:15,410 --> 00:05:17,344
+and planted it
+in Bradshaw's home.
+
+122
+00:05:17,346 --> 00:05:19,129
+Well, Bradshaw
+was arrested,
+
+123
+00:05:19,131 --> 00:05:20,914
+but then, a few days later,
+
+124
+00:05:20,916 --> 00:05:22,749
+someone called
+with an anonymous tip,
+
+125
+00:05:22,751 --> 00:05:24,184
+told I.A. what happened.
+
+126
+00:05:24,186 --> 00:05:26,804
+We had no choice
+but to cut Bradshaw loose.
+
+127
+00:05:26,806 --> 00:05:28,605
+Now, I continued
+to work the detail,
+
+128
+00:05:28,607 --> 00:05:29,807
+went undercover
+for a while,
+
+129
+00:05:29,809 --> 00:05:31,775
+got to know his crew
+inside and out.
+
+130
+00:05:31,777 --> 00:05:34,228
+Still couldn't find
+enough evidence to connect him
+
+131
+00:05:34,230 --> 00:05:35,979
+to the drugs
+they were trafficking, so...
+
+132
+00:05:35,981 --> 00:05:37,815
+So you "Caponed" him.
+
+133
+00:05:37,817 --> 00:05:38,949
+You arrested him
+
+134
+00:05:38,951 --> 00:05:40,200
+on a less
+significant charge
+
+135
+00:05:40,202 --> 00:05:41,869
+just to get him off the street.
+
+136
+00:05:41,871 --> 00:05:43,987
+While he was gone, we continued
+to chip away at his empire.
+
+137
+00:05:43,989 --> 00:05:45,489
+I went after his lieutenants--
+
+138
+00:05:45,491 --> 00:05:47,708
+they weren't nearly
+as careful as Bradshaw was--
+
+139
+00:05:47,710 --> 00:05:50,110
+and I managed to put
+most of them away.
+
+140
+00:05:50,112 --> 00:05:51,462
+Six months into
+his sentence,
+
+141
+00:05:51,464 --> 00:05:53,613
+all he had left
+were a few corners.
+
+142
+00:05:53,615 --> 00:05:55,782
+Obviously you did a lot
+of damage, but how can you
+
+143
+00:05:55,784 --> 00:05:57,751
+be sure it's the same shooter
+from last night?
+
+144
+00:05:59,420 --> 00:06:01,638
+This was Bradshaw's baby.
+
+145
+00:06:01,640 --> 00:06:04,007
+It's also the car
+that pulled up alongside me.
+
+146
+00:06:04,009 --> 00:06:05,592
+Now, he told me before his trial
+
+147
+00:06:05,594 --> 00:06:07,811
+he was going to come
+after me himself.
+
+148
+00:06:07,813 --> 00:06:09,513
+And last night,
+he finally did.
+
+149
+00:06:09,515 --> 00:06:11,181
+Obviously, I can't
+have Bell here
+
+150
+00:06:11,183 --> 00:06:12,649
+investigating
+his own attempted murder.
+
+151
+00:06:12,651 --> 00:06:14,902
+And since we just put eyes
+on Bradshaw,
+
+152
+00:06:14,904 --> 00:06:16,487
+I thought maybe you could
+
+153
+00:06:16,489 --> 00:06:18,021
+come with me
+to question him?
+
+154
+00:06:18,023 --> 00:06:19,306
+I suppose I could
+lend my services.
+
+155
+00:06:19,308 --> 00:06:21,742
+Thanks for not making me beg.
+
+156
+00:06:24,946 --> 00:06:27,364
+Hey, you got a message
+at the intake desk.
+
+157
+00:06:27,366 --> 00:06:28,815
+We were on our way up,
+
+158
+00:06:28,817 --> 00:06:30,367
+said we'd pass it along.
+
+159
+00:06:30,369 --> 00:06:32,836
+What kind of a name
+is Mr. Cheese?
+
+160
+00:06:32,838 --> 00:06:35,706
+He's, uh, one of
+my CIs; he's shy.
+
+161
+00:06:35,708 --> 00:06:37,374
+What about last night?
+
+162
+00:06:37,376 --> 00:06:38,842
+Yeah, it was just...
+
+163
+00:06:38,844 --> 00:06:40,294
+Car took the worst of it.
+
+164
+00:06:40,296 --> 00:06:42,162
+I'm glad you're doing okay.
+
+165
+00:06:44,215 --> 00:06:46,216
+How many times
+did you and her have sex?
+
+166
+00:06:46,218 --> 00:06:47,351
+God.
+
+167
+00:06:47,353 --> 00:06:49,052
+My over/under is ten.
+
+168
+00:06:49,054 --> 00:06:50,971
+Officer Reyes
+is an old friend.
+
+169
+00:06:50,973 --> 00:06:52,973
+Her partner doesn't
+like you very much.
+
+170
+00:06:52,975 --> 00:06:54,391
+It's probably because
+he'd like to have sex
+
+171
+00:06:54,393 --> 00:06:56,176
+with her as well--
+and when I say "as well".
+
+172
+00:06:56,178 --> 00:06:57,561
+I mean in addition to
+and separate from,
+
+173
+00:06:57,563 --> 00:06:59,947
+not including you
+as a third party.
+
+174
+00:06:59,949 --> 00:07:01,899
+I know what you meant.
+
+175
+00:07:01,901 --> 00:07:03,483
+She boxes.
+
+176
+00:07:03,485 --> 00:07:05,452
+I can tell from her knuckles
+and the tape residue.
+
+177
+00:07:05,454 --> 00:07:06,954
+Perhaps she would agree
+to spar with you,
+
+178
+00:07:06,956 --> 00:07:08,956
+give me an idea of, uh,
+what you might be like
+
+179
+00:07:08,958 --> 00:07:10,490
+with an opponent
+in your similar weight class.
+
+180
+00:07:10,492 --> 00:07:12,409
+You sure this sudden
+new interest in my safety
+
+181
+00:07:12,411 --> 00:07:14,161
+has nothing to do
+with watching two women
+
+182
+00:07:14,163 --> 00:07:15,495
+engage in some foxy boxing?
+
+183
+00:07:15,497 --> 00:07:16,880
+You think you're foxy?
+
+184
+00:07:16,882 --> 00:07:18,365
+You two ready?
+
+185
+00:07:19,334 --> 00:07:20,867
+<i>50 on my kid right here.</i>
+
+186
+00:07:20,869 --> 00:07:23,203
+- Aah!
+- That's all day.
+
+187
+00:07:23,205 --> 00:07:24,537
+Let's play some "D,"
+let's play some defense.
+
+188
+00:07:24,539 --> 00:07:25,672
+Yeah, let's go,
+let's go.
+
+189
+00:07:25,674 --> 00:07:27,307
+Guys, come on,
+you got to play some "D."
+
+190
+00:07:27,309 --> 00:07:28,842
+Curtis Bradshaw.
+
+191
+00:07:28,844 --> 00:07:31,228
+Captain Gregson, NYPD.
+
+192
+00:07:31,230 --> 00:07:33,880
+These are my associates,
+Holmes and Watson.
+
+193
+00:07:33,882 --> 00:07:35,599
+I'd like to ask you
+a few questions.
+
+194
+00:07:35,601 --> 00:07:37,684
+You're blocking my view.
+
+195
+00:07:37,686 --> 00:07:39,519
+Oh, yeah?
+
+196
+00:07:39,521 --> 00:07:41,721
+Imagine what the view's gonna
+look like from the precinct.
+
+197
+00:07:41,723 --> 00:07:43,774
+Can you account for
+your whereabouts
+
+198
+00:07:43,776 --> 00:07:45,943
+between the hours of 10:00
+and 10:30 last night?
+
+199
+00:07:45,945 --> 00:07:47,560
+Why would I need to?
+
+200
+00:07:47,562 --> 00:07:48,895
+'Cause someone
+took a few shots
+
+201
+00:07:48,897 --> 00:07:50,831
+at an old friend
+of yours.
+
+202
+00:07:50,833 --> 00:07:52,399
+Detective Marcus Bell.
+
+203
+00:07:52,401 --> 00:07:56,119
+You know, I heard something
+about that on the news.
+
+204
+00:07:56,121 --> 00:07:59,456
+Somebody fired a whole clip
+into his car and didn't hit him.
+
+205
+00:07:59,458 --> 00:08:01,291
+See, the thing
+with him is,
+
+206
+00:08:01,293 --> 00:08:03,210
+you got to aim low.
+
+207
+00:08:04,546 --> 00:08:05,796
+Your car was seen
+
+208
+00:08:05,798 --> 00:08:07,914
+leaving the scene
+of the crime.
+
+209
+00:08:07,916 --> 00:08:09,800
+You're going to have to be
+more specific.
+
+210
+00:08:09,802 --> 00:08:11,018
+I have a few.
+
+211
+00:08:11,020 --> 00:08:13,186
+1968 blue
+Chevy Biscayne.
+
+212
+00:08:13,188 --> 00:08:14,771
+Get out of here.
+
+213
+00:08:14,773 --> 00:08:16,690
+That car was stolen
+two nights ago.
+
+214
+00:08:16,692 --> 00:08:19,226
+Did you report the car stolen?
+Hey, you know what?
+
+215
+00:08:19,228 --> 00:08:22,112
+As a matter of fact,
+I was going to do that today.
+
+216
+00:08:22,114 --> 00:08:24,781
+I'm going to ask you one
+more time, Mr. Bradshaw:
+
+217
+00:08:24,783 --> 00:08:27,150
+Can you account for your
+whereabouts or can't you?
+
+218
+00:08:27,152 --> 00:08:29,303
+Yo, he was with me, man.
+
+219
+00:08:29,305 --> 00:08:30,621
+We went to the movies.
+
+220
+00:08:30,623 --> 00:08:32,039
+We didn't leave
+till after midnight.
+
+221
+00:08:32,041 --> 00:08:33,123
+No, man, you're wrong.
+
+222
+00:08:33,125 --> 00:08:34,491
+He was with me last night.
+
+223
+00:08:34,493 --> 00:08:36,793
+He was playing cards
+at my cousin's place.
+
+224
+00:08:36,795 --> 00:08:39,997
+You pick the alibi
+you like the best.
+
+225
+00:08:39,999 --> 00:08:42,666
+You a gambling man,
+Mr. Bradshaw?
+
+226
+00:08:42,668 --> 00:08:45,618
+I've been known to make
+the occasional wager, but...
+
+227
+00:08:45,620 --> 00:08:48,088
+I bet you I can put that ball
+in that hoop from here.
+
+228
+00:08:49,975 --> 00:08:53,093
+If I win, tell us where you
+abandoned the car last night.
+
+229
+00:08:53,095 --> 00:08:54,794
+You win, tell us nothing.
+
+230
+00:08:54,796 --> 00:08:57,981
+British globetrotter here.
+
+231
+00:08:57,983 --> 00:09:01,301
+Do you agree to the
+terms of the bet or not?
+
+232
+00:09:02,520 --> 00:09:04,271
+What you got, homey?
+
+233
+00:09:05,606 --> 00:09:07,807
+What you got?
+What you got?
+
+234
+00:09:09,110 --> 00:09:11,528
+Look at this guy.
+He's a clown.
+
+235
+00:09:11,530 --> 00:09:13,146
+Look at this guy.
+
+236
+00:09:15,483 --> 00:09:16,867
+Whoa, whoa, whoa.
+
+237
+00:09:16,869 --> 00:09:19,336
+He wasn't going to tell us
+anything anyway.
+
+238
+00:09:19,338 --> 00:09:21,321
+You gonna get
+that ball, right?
+
+239
+00:09:28,846 --> 00:09:31,014
+Marcus "Bulletproof" Bell.
+
+240
+00:09:31,016 --> 00:09:33,550
+I take it you heard
+about what happened last night.
+
+241
+00:09:33,552 --> 00:09:34,801
+No thanks to you.
+
+242
+00:09:34,803 --> 00:09:37,137
+I had to hear about it
+on the news.
+
+243
+00:09:38,556 --> 00:09:41,441
+So I hit you up
+at the station.
+
+244
+00:09:41,443 --> 00:09:43,560
+I wanted to make sure
+you was okay.
+
+245
+00:09:43,562 --> 00:09:45,612
+Now, I know you don't like
+me calling you there,
+
+246
+00:09:45,614 --> 00:09:46,780
+so I used a code name.
+
+247
+00:09:46,782 --> 00:09:47,898
+Well, your old
+gang name
+
+248
+00:09:47,900 --> 00:09:49,950
+is not a code name.
+
+249
+00:09:52,036 --> 00:09:54,738
+So, this guy, the shooter...
+
+250
+00:09:54,740 --> 00:09:56,156
+what'd he come at you with?
+
+251
+00:09:56,158 --> 00:09:59,326
+Modified MP5.
+
+252
+00:10:01,879 --> 00:10:04,030
+You know, um,
+I still know some people.
+
+253
+00:10:04,032 --> 00:10:05,749
+I could ask around,
+see who's strapped
+
+254
+00:10:05,751 --> 00:10:07,334
+with that kind of hardware.
+
+255
+00:10:07,336 --> 00:10:09,836
+Not without violating
+your parole, you can't.
+
+256
+00:10:12,306 --> 00:10:13,757
+Uh, these are for you.
+
+257
+00:10:13,759 --> 00:10:16,176
+It's just a few things
+to tide you over.
+
+258
+00:10:20,047 --> 00:10:21,431
+Appreciate it.
+
+259
+00:10:21,433 --> 00:10:24,384
+Been pretty sick
+of the unsold burgers
+
+260
+00:10:24,386 --> 00:10:26,486
+they let me take home
+from work every night.
+
+261
+00:10:26,488 --> 00:10:28,188
+Hoping to see
+my PO next week,
+
+262
+00:10:28,190 --> 00:10:30,557
+see if he can hook me up
+with a better job.
+
+263
+00:10:30,559 --> 00:10:32,993
+Hey.
+
+264
+00:10:32,995 --> 00:10:34,611
+You're not him,
+by the way.
+
+265
+00:10:34,613 --> 00:10:37,030
+My parole officer.
+
+266
+00:10:37,032 --> 00:10:38,281
+You don't have to case my place
+
+267
+00:10:38,283 --> 00:10:39,899
+to see if I've been
+up to anything.
+
+268
+00:10:39,901 --> 00:10:41,234
+I'm not casing
+anything, Andre.
+
+269
+00:10:41,236 --> 00:10:43,086
+What, you think
+I'm stupid, Marcus?
+
+270
+00:10:43,088 --> 00:10:45,738
+You've only been
+out a few weeks.
+
+271
+00:10:45,740 --> 00:10:47,424
+I'm just trying to
+look out for you.
+
+272
+00:10:47,426 --> 00:10:49,209
+You don't got to look out
+for me, okay?
+
+273
+00:10:49,211 --> 00:10:50,343
+I look out for you.
+
+274
+00:10:50,345 --> 00:10:51,461
+I'm the big brother here.
+
+275
+00:10:51,463 --> 00:10:53,713
+Andre...
+I'm serious, Marcus.
+
+276
+00:10:53,715 --> 00:10:56,383
+I know you're embarrassed.
+
+277
+00:10:56,385 --> 00:10:59,219
+A cop with an ex-con
+in the family.
+
+278
+00:11:00,304 --> 00:11:02,189
+But it is what it is.
+
+279
+00:11:03,691 --> 00:11:05,792
+When Detective Bell
+said that Curtis Bradshaw
+
+280
+00:11:05,794 --> 00:11:07,527
+was smarter
+than the average thug,
+
+281
+00:11:07,529 --> 00:11:09,529
+he was putting it mildly.
+
+282
+00:11:09,531 --> 00:11:11,264
+He never came within 1,000 yards
+
+283
+00:11:11,266 --> 00:11:13,099
+of the drugs
+he was distributing.
+
+284
+00:11:13,101 --> 00:11:15,168
+He allowed a small cadre
+of trusted lieutenants
+
+285
+00:11:15,170 --> 00:11:17,487
+to oversee almost
+every transaction.
+
+286
+00:11:17,489 --> 00:11:20,740
+I'm beginning to see why
+the detective on his detail
+
+287
+00:11:20,742 --> 00:11:22,626
+felt compelled to plant
+evidence in his home.
+
+288
+00:11:22,628 --> 00:11:24,211
+Mickey Hudson, right?
+
+289
+00:11:24,213 --> 00:11:26,279
+Most of these are his notes.
+
+290
+00:11:26,281 --> 00:11:28,915
+I was thinking he might be
+a good person to talk to.
+
+291
+00:11:28,917 --> 00:11:30,167
+Yes, he might be.
+
+292
+00:11:30,169 --> 00:11:32,285
+If he wasn't so very dead.
+
+293
+00:11:32,287 --> 00:11:34,638
+Hudson was brought up
+on charges in 2009,
+
+294
+00:11:34,640 --> 00:11:37,507
+committed suicide just
+before the trial began.
+
+295
+00:11:37,509 --> 00:11:39,259
+Don't you think it's weird
+that Bradshaw
+
+296
+00:11:39,261 --> 00:11:40,727
+went after Bell himself?
+
+297
+00:11:40,729 --> 00:11:42,929
+I mean, he doesn't like
+to get his hands dirty.
+
+298
+00:11:42,931 --> 00:11:46,016
+So, why not farm out the hit
+to one of his lieutenants?
+
+299
+00:11:46,018 --> 00:11:48,568
+His grudge with Bell is
+very clearly personal.
+
+300
+00:11:48,570 --> 00:11:50,520
+Nothing makes a
+smart man stupid
+
+301
+00:11:50,522 --> 00:11:52,355
+like a thirst
+for vengeance.
+
+302
+00:11:52,357 --> 00:11:55,408
+As you well know,
+I speak from experience.
+
+303
+00:11:58,529 --> 00:12:01,281
+I appreciate your help
+with these files, by the way.
+
+304
+00:12:01,283 --> 00:12:03,316
+No, Bell is family
+at this point.
+
+305
+00:12:03,318 --> 00:12:06,503
+Well, he's
+an excellent resource.
+
+306
+00:12:06,505 --> 00:12:09,256
+He's come to appreciate
+the efficacy of my methods,
+
+307
+00:12:09,258 --> 00:12:11,291
+and he shares sensitive
+information when needed.
+
+308
+00:12:11,293 --> 00:12:13,210
+Yeah. If he's murdered,
+
+309
+00:12:13,212 --> 00:12:16,213
+I'll have to start over
+with another detective.
+
+310
+00:12:16,215 --> 00:12:19,132
+Well, I'm going to order
+some Thai.
+
+311
+00:12:19,134 --> 00:12:21,801
+Do you want anything?
+
+312
+00:12:24,004 --> 00:12:25,522
+Ow!
+
+313
+00:12:25,524 --> 00:12:27,858
+What the hell was that about?!
+Don't be cross.
+
+314
+00:12:27,860 --> 00:12:29,359
+It could've been a knife.
+
+315
+00:12:29,361 --> 00:12:31,361
+I told you to expect more
+tests of your reflexes
+
+316
+00:12:31,363 --> 00:12:33,146
+while I await word from
+potential trainers.
+
+317
+00:12:33,148 --> 00:12:35,031
+Because you're afraid
+I might get hurt. I remember.
+
+318
+00:12:35,033 --> 00:12:36,449
+In case you haven't noticed,
+
+319
+00:12:36,451 --> 00:12:38,618
+the only person
+who has been hurting me is you.
+
+320
+00:12:38,620 --> 00:12:39,903
+You're angry.
+That's good.
+
+321
+00:12:39,905 --> 00:12:41,688
+Come on, come at me.
+Come on. Come on!
+
+322
+00:12:41,690 --> 00:12:43,573
+These locks... you put them
+in some special order
+
+323
+00:12:43,575 --> 00:12:44,991
+the other day, right?
+
+324
+00:12:44,993 --> 00:12:47,360
+They're arranged in
+country of origin.
+
+325
+00:12:52,550 --> 00:12:55,135
+Do it again.
+
+326
+00:12:59,640 --> 00:13:02,425
+Excuse me, sir?
+
+327
+00:13:02,427 --> 00:13:05,445
+Sir, you can't sit there.
+
+328
+00:13:07,315 --> 00:13:09,816
+Sir!
+
+329
+00:13:10,935 --> 00:13:12,686
+Fine, have it your way.
+
+330
+00:13:12,688 --> 00:13:14,437
+I'm calling the police.
+
+331
+00:13:51,504 --> 00:13:52,971
+It's Paula, correct?
+
+332
+00:13:52,973 --> 00:13:54,422
+Officer Reyes.
+Oh.
+
+333
+00:13:54,424 --> 00:13:56,091
+You, you're
+the consultant, right?
+
+334
+00:13:56,093 --> 00:13:57,292
+Yep.
+
+335
+00:13:57,294 --> 00:13:58,593
+We have a mutual friend.
+
+336
+00:13:58,595 --> 00:13:59,961
+Detective Bell.
+
+337
+00:13:59,963 --> 00:14:01,829
+Although I've never
+seen him naked.
+
+338
+00:14:01,831 --> 00:14:03,631
+Hey. Little respect.
+
+339
+00:14:03,633 --> 00:14:05,884
+I was wondering if you might
+tell me where you box.
+
+340
+00:14:05,886 --> 00:14:08,503
+I'm looking for a gym
+for my associate, Ms. Watson.
+
+341
+00:14:08,505 --> 00:14:10,271
+How did you
+know I boxed?
+
+342
+00:14:10,273 --> 00:14:12,307
+No more talking.
+
+343
+00:14:12,309 --> 00:14:14,476
+Not now.
+
+344
+00:14:22,218 --> 00:14:24,035
+Captain.
+
+345
+00:14:24,037 --> 00:14:25,653
+If you're thinking
+about pulling a rabbit
+
+346
+00:14:25,655 --> 00:14:27,522
+out of the hat,
+get to it, would you?
+
+347
+00:14:27,524 --> 00:14:30,658
+Media's already working
+a "killer cops" angle.
+
+348
+00:14:30,660 --> 00:14:31,860
+They think this is retribution
+
+349
+00:14:31,861 --> 00:14:33,495
+for the attack
+on Detective Bell.
+
+350
+00:14:33,497 --> 00:14:34,662
+Ridiculous.
+
+351
+00:14:34,664 --> 00:14:36,047
+Astute, actually.
+
+352
+00:14:36,049 --> 00:14:37,332
+You think a cop did this?
+
+353
+00:14:37,334 --> 00:14:38,866
+I'm afraid I found evidence
+
+354
+00:14:38,868 --> 00:14:43,037
+that would suggest
+that Detective Bell did this.
+
+355
+00:14:43,039 --> 00:14:44,973
+It's a boot print.
+
+356
+00:14:44,975 --> 00:14:46,374
+So what?
+
+357
+00:14:46,376 --> 00:14:47,759
+It's a size ten.
+
+358
+00:14:47,761 --> 00:14:49,344
+Pergotti.
+
+359
+00:14:49,346 --> 00:14:51,513
+I know I'm a detective, Holmes,
+
+360
+00:14:51,515 --> 00:14:53,098
+but part of a boot print
+
+361
+00:14:53,100 --> 00:14:54,849
+doesn't really tell me
+a whole story.
+
+362
+00:14:54,851 --> 00:14:57,185
+I found this print
+precisely where the killer
+
+363
+00:14:57,187 --> 00:14:58,903
+was standing when they
+shot Curtis Bradshaw.
+
+364
+00:14:58,905 --> 00:15:00,855
+Then I remembered your
+dark gray summer suit
+
+365
+00:15:00,857 --> 00:15:02,240
+you favored in September.
+
+366
+00:15:02,242 --> 00:15:04,776
+Always paired with
+your brown Pergottis.
+
+367
+00:15:04,778 --> 00:15:07,495
+You are a size ten,
+aren't you?
+
+368
+00:15:08,314 --> 00:15:10,031
+Captain.
+
+369
+00:15:10,033 --> 00:15:12,000
+I'm confused.
+
+370
+00:15:12,002 --> 00:15:13,168
+You guys coming at me?
+
+371
+00:15:13,170 --> 00:15:14,252
+Of course not.
+
+372
+00:15:14,254 --> 00:15:15,286
+But the press
+
+373
+00:15:15,288 --> 00:15:16,871
+is just hung up on the timing.
+
+374
+00:15:16,873 --> 00:15:19,124
+It's just an ugly piece of luck.
+
+375
+00:15:19,126 --> 00:15:20,708
+If it's just about timing,
+why is Holmes
+
+376
+00:15:20,710 --> 00:15:22,410
+standing in my house
+
+377
+00:15:22,412 --> 00:15:23,762
+talking about my shoes?
+
+378
+00:15:23,764 --> 00:15:25,463
+Did you guys forget
+there were two uniforms
+
+379
+00:15:25,465 --> 00:15:27,682
+posted outside my door
+all night last night
+
+380
+00:15:27,684 --> 00:15:29,384
+in case Bradshaw
+came after me again?
+
+381
+00:15:29,386 --> 00:15:30,918
+That's not much of an
+alibi, I'm afraid.
+
+382
+00:15:30,920 --> 00:15:32,587
+I've already calculated
+six different ways
+
+383
+00:15:32,589 --> 00:15:34,589
+that you could have given
+those patrolmen the slip.
+
+384
+00:15:35,858 --> 00:15:37,442
+Fine. Four avenues of escape,
+
+385
+00:15:37,444 --> 00:15:39,060
+plus two variations
+on the fifth.
+
+386
+00:15:39,062 --> 00:15:40,761
+There's the back balcony,
+the fire escape...
+
+387
+00:15:40,763 --> 00:15:42,781
+I know we're not the best
+of friends or anything,
+
+388
+00:15:42,783 --> 00:15:44,949
+but do you honestly believe
+I would kill a man?
+
+389
+00:15:44,951 --> 00:15:47,285
+Even one as worthless
+as Curtis Bradshaw?
+
+390
+00:15:47,287 --> 00:15:48,536
+I should think
+anyone might kill,
+
+391
+00:15:48,538 --> 00:15:49,738
+given the right circumstances.
+
+392
+00:15:51,574 --> 00:15:53,458
+But no, I don't
+think that you
+
+393
+00:15:53,460 --> 00:15:55,794
+would shoot a man
+in cold blood.
+
+394
+00:15:55,796 --> 00:15:57,078
+Good.
+
+395
+00:15:57,080 --> 00:15:58,246
+Nevertheless, you
+will need answers
+
+396
+00:15:58,248 --> 00:15:59,497
+rather than indignation
+
+397
+00:15:59,499 --> 00:16:00,915
+when these questions
+are being posed
+
+398
+00:16:00,917 --> 00:16:02,500
+by someone other than us.
+
+399
+00:16:04,170 --> 00:16:06,137
+Can you give us a minute?
+
+400
+00:16:06,139 --> 00:16:08,456
+Water closet?
+
+401
+00:16:08,458 --> 00:16:11,259
+If that means bathroom,
+I'm sure you can find it.
+
+402
+00:16:13,979 --> 00:16:16,648
+What's he mean,
+questions being asked?
+
+403
+00:16:16,650 --> 00:16:19,484
+You guys got a print from a boot
+a thousand guys must own.
+
+404
+00:16:19,486 --> 00:16:22,687
+We also got a perp
+who took two center mass.
+
+405
+00:16:22,689 --> 00:16:25,190
+Just like they trained us
+at the academy.
+
+406
+00:16:25,192 --> 00:16:27,525
+And nobody else with a gun
+knows where to aim it?
+
+407
+00:16:27,527 --> 00:16:29,360
+You got any real suspects?
+
+408
+00:16:29,362 --> 00:16:32,530
+If we did, I wouldn't have to
+put you on administrative duty.
+
+409
+00:16:36,486 --> 00:16:38,703
+Hey, I don't bench you,
+
+410
+00:16:38,705 --> 00:16:40,338
+how's it going to play?
+
+411
+00:16:40,340 --> 00:16:43,458
+We're going to color
+inside the lines on this.
+
+412
+00:16:43,460 --> 00:16:46,494
+That way, when it's over,
+everyone knows you're clean.
+
+413
+00:16:46,496 --> 00:16:49,464
+Whenever you're ready, Captain.
+
+414
+00:16:54,169 --> 00:16:57,388
+Whoever did this,
+we're gonna find him.
+
+415
+00:16:57,390 --> 00:16:59,440
+I promise you.
+
+416
+00:17:00,476 --> 00:17:02,009
+You were held
+at gunpoint?
+
+417
+00:17:02,011 --> 00:17:04,312
+We both were.
+Me and Sherlock's friend.
+
+418
+00:17:04,314 --> 00:17:05,563
+His ex-dealer.
+
+419
+00:17:05,565 --> 00:17:06,898
+There was
+a struggle.
+
+420
+00:17:06,900 --> 00:17:09,617
+Uh, the man with the gun
+was incapacitated,
+
+421
+00:17:09,619 --> 00:17:11,369
+but then Rhys was shot
+in the abdomen.
+
+422
+00:17:11,371 --> 00:17:13,571
+I was able to stabilize him
+until the paramedics took over.
+
+423
+00:17:13,573 --> 00:17:15,740
+Did he pull through,
+the man who was shot?
+
+424
+00:17:15,742 --> 00:17:18,192
+Yes, he did.
+What about you?
+
+425
+00:17:18,194 --> 00:17:21,079
+Have you noticed any post-
+traumatic symptoms in yourself?
+
+426
+00:17:21,081 --> 00:17:22,213
+Anxiety?
+
+427
+00:17:22,215 --> 00:17:23,414
+No.
+
+428
+00:17:23,416 --> 00:17:24,482
+Nightmares?
+
+429
+00:17:24,484 --> 00:17:27,385
+I-I've been sleeping just fine.
+
+430
+00:17:27,387 --> 00:17:29,504
+You know I've always
+been supportive
+
+431
+00:17:29,506 --> 00:17:31,055
+of your exploration
+of Sherlock's work,
+
+432
+00:17:31,057 --> 00:17:34,409
+but your pattern with him
+has become troubling.
+
+433
+00:17:34,411 --> 00:17:36,261
+For one thing,
+you haven't told him
+
+434
+00:17:36,263 --> 00:17:38,713
+you're no longer being paid
+to serve as his sober companion.
+
+435
+00:17:38,715 --> 00:17:40,481
+And now it sounds
+as if your life
+
+436
+00:17:40,483 --> 00:17:41,933
+is at risk in his home.
+
+437
+00:17:41,935 --> 00:17:44,018
+Oh, he would agree with you.
+
+438
+00:17:44,020 --> 00:17:47,355
+He's been pushing me
+to learn self-defense.
+
+439
+00:17:48,908 --> 00:17:51,442
+When's the last time you talked
+about boundaries with him?
+
+440
+00:17:51,444 --> 00:17:54,195
+Oh, I-I talk about them
+all the time.
+
+441
+00:17:54,197 --> 00:17:55,896
+He-he doesn't always listen.
+
+442
+00:17:55,898 --> 00:17:58,833
+May I give you
+my professional opinion?
+
+443
+00:17:58,835 --> 00:18:00,251
+Please.
+
+444
+00:18:00,253 --> 00:18:03,755
+It's time you moved on,
+found a new client.
+
+445
+00:18:03,757 --> 00:18:05,757
+It's been a
+grand adventure,
+
+446
+00:18:05,759 --> 00:18:07,709
+these last few months
+with Sherlock,
+
+447
+00:18:07,711 --> 00:18:09,744
+but it's run its course.
+
+448
+00:18:11,714 --> 00:18:15,266
+But I'm not staying with him
+for some "grand adventure."
+
+449
+00:18:15,268 --> 00:18:18,720
+His work placed you in
+real physical danger.
+
+450
+00:18:18,722 --> 00:18:20,905
+You could have been killed.
+
+451
+00:18:23,192 --> 00:18:26,644
+You claim he respects you,
+that he cares about your safety.
+
+452
+00:18:26,646 --> 00:18:28,396
+If he really cares,
+
+453
+00:18:28,398 --> 00:18:31,599
+and if he's really as smart
+as you say he is, tell me,
+
+454
+00:18:31,601 --> 00:18:34,519
+why isn't he the one
+telling you to move on?
+
+455
+00:18:46,298 --> 00:18:47,632
+Is another test
+of my reflexes?
+
+456
+00:18:47,634 --> 00:18:49,751
+Because you're about
+to see how quickly
+
+457
+00:18:49,753 --> 00:18:51,085
+I can call the police.
+
+458
+00:18:51,087 --> 00:18:52,136
+Watson, you startled me.
+
+459
+00:18:52,138 --> 00:18:53,454
+Sorry about the din.
+
+460
+00:18:53,456 --> 00:18:54,973
+I needed something
+to obscure the sound
+
+461
+00:18:54,975 --> 00:18:56,624
+of my ballistics exam.
+
+462
+00:18:56,626 --> 00:18:58,009
+This is a residence.
+
+463
+00:18:58,011 --> 00:18:59,978
+There are people that live
+in this neighborhood.
+
+464
+00:18:59,980 --> 00:19:01,596
+You don't do
+a ballistics exam here.
+
+465
+00:19:01,598 --> 00:19:02,847
+As a matter of fact,
+
+466
+00:19:02,849 --> 00:19:04,599
+you don't do
+a ballistics exam, period.
+
+467
+00:19:04,601 --> 00:19:05,966
+You let the police
+do them.
+
+468
+00:19:05,968 --> 00:19:07,185
+Of course, you're right.
+
+469
+00:19:07,187 --> 00:19:08,486
+But I'm afraid,
+in this instance,
+
+470
+00:19:08,488 --> 00:19:09,737
+surrendering this weapon
+to the police
+
+471
+00:19:09,739 --> 00:19:11,305
+was the last thing I could do.
+
+472
+00:19:16,912 --> 00:19:19,080
+Glad you got
+my message.
+
+473
+00:19:19,082 --> 00:19:21,699
+I just wanted to tell you
+that I reached out.
+
+474
+00:19:21,701 --> 00:19:24,669
+Some of my old people,
+they like their toys.
+
+475
+00:19:24,671 --> 00:19:28,589
+You know how to tune up an MP5,
+these boys know you.
+
+476
+00:19:28,591 --> 00:19:30,124
+Man, what did I say?
+
+477
+00:19:30,126 --> 00:19:31,843
+Hold up, hold up.
+
+478
+00:19:31,845 --> 00:19:34,545
+I got a name. Tico Bettis.
+
+479
+00:19:34,547 --> 00:19:36,631
+Out of Bed-Stuy.
+If he's the one
+
+480
+00:19:36,633 --> 00:19:39,801
+who tweaked that gun,
+he might know who used it.
+
+481
+00:19:40,836 --> 00:19:42,303
+You're welcome.
+
+482
+00:19:42,305 --> 00:19:43,504
+You're not
+allowed to be
+
+483
+00:19:43,506 --> 00:19:45,106
+in contact with
+your old people.
+
+484
+00:19:45,108 --> 00:19:46,274
+I called a couple
+of old friends
+
+485
+00:19:46,276 --> 00:19:47,725
+'cause my brother
+got shot at.
+
+486
+00:19:47,727 --> 00:19:50,478
+You don't think the NYPD
+knows about Tico?
+
+487
+00:19:50,480 --> 00:19:53,364
+My boss talked to him
+and five just like him
+
+488
+00:19:53,366 --> 00:19:55,566
+before they pulled
+my car out the gutter.
+
+489
+00:19:55,568 --> 00:19:57,035
+He's clean.
+
+490
+00:19:57,037 --> 00:19:58,703
+Your PO finds out
+you've been talking
+
+491
+00:19:58,705 --> 00:20:01,289
+to your old friends,
+you go back in.
+
+492
+00:20:01,291 --> 00:20:02,623
+For what? Nothing.
+
+493
+00:20:02,625 --> 00:20:05,827
+Hey, hey, I just wanted
+to help, man.
+
+494
+00:20:05,829 --> 00:20:09,196
+Why don't you help yourself
+for a change, huh?
+
+495
+00:20:09,198 --> 00:20:10,965
+You can't understand
+that I... that I...
+
+496
+00:20:10,967 --> 00:20:12,917
+that I might want to do
+something that matters?
+
+497
+00:20:12,919 --> 00:20:15,386
+Look, I know what
+you're going through.
+
+498
+00:20:15,388 --> 00:20:17,972
+No, no, man, you got no idea.
+Andre...
+
+499
+00:20:17,974 --> 00:20:19,874
+You got no idea
+what this is like.
+
+500
+00:20:21,093 --> 00:20:23,644
+But who knows?
+
+501
+00:20:23,646 --> 00:20:26,314
+Maybe someday...
+
+502
+00:20:26,316 --> 00:20:28,316
+you will.
+
+503
+00:20:39,361 --> 00:20:41,446
+So, I got a text
+to be here?
+
+504
+00:20:41,448 --> 00:20:44,532
+Yeah, he needs to talk
+to you about something.
+
+505
+00:20:54,093 --> 00:20:56,377
+Are those bullet holes
+in that dummy?
+
+506
+00:20:56,379 --> 00:20:58,212
+They are.
+You know, if you fired a gun
+
+507
+00:20:58,214 --> 00:21:00,765
+in here, I could arrest you.
+I do.
+
+508
+00:21:00,767 --> 00:21:03,250
+Someone want to tell me
+what the hell is going on?
+
+509
+00:21:03,252 --> 00:21:05,803
+Sherlock thinks that
+someone's trying to frame you
+
+510
+00:21:05,805 --> 00:21:07,605
+for the murder
+of Curtis Bradshaw.
+
+511
+00:21:07,607 --> 00:21:10,475
+Look, if this is about
+
+512
+00:21:10,477 --> 00:21:12,143
+those Pergottis again,
+we're talking about a boot
+
+513
+00:21:12,145 --> 00:21:14,529
+you could buy in any
+department store in the city.
+
+514
+00:21:14,531 --> 00:21:15,763
+If the guy
+who killed Bradshaw
+
+515
+00:21:15,765 --> 00:21:17,198
+wanted me to
+take the fall,
+
+516
+00:21:17,200 --> 00:21:18,933
+he's the worst frame-up artist
+I've ever seen.
+
+517
+00:21:18,935 --> 00:21:21,018
+The boots were only
+the first part of the plan.
+
+518
+00:21:21,020 --> 00:21:22,637
+The gun was the second.
+What gun?
+
+519
+00:21:22,639 --> 00:21:24,872
+What are you
+talking about?
+
+520
+00:21:24,874 --> 00:21:25,873
+Where'd you get that?
+
+521
+00:21:25,875 --> 00:21:26,908
+Your home.
+
+522
+00:21:26,910 --> 00:21:28,743
+No sooner
+had I entered
+
+523
+00:21:28,745 --> 00:21:30,495
+your bathroom today
+than I noticed
+
+524
+00:21:30,497 --> 00:21:33,381
+the unmistakable scent
+of a recently expended firearm.
+
+525
+00:21:33,383 --> 00:21:35,333
+<i>I followed it</i>
+<i>to an air-conditioning vent,</i>
+
+526
+00:21:35,335 --> 00:21:37,068
+<i>found this nine-millimeter</i>
+
+527
+00:21:37,070 --> 00:21:38,553
+tucked inside.
+
+528
+00:21:38,555 --> 00:21:40,972
+I've never seen
+that gun before in my life.
+
+529
+00:21:40,974 --> 00:21:42,623
+I believe you.
+
+530
+00:21:42,625 --> 00:21:45,793
+Yet it was the last thing
+Curtis Bradshaw saw in his.
+
+531
+00:21:45,795 --> 00:21:48,062
+I just compared the slugs
+I fired into that dummy
+
+532
+00:21:48,064 --> 00:21:49,430
+with images from the ones
+
+533
+00:21:49,432 --> 00:21:51,015
+recovered from
+Mr. Bradshaw's body.
+
+534
+00:21:51,850 --> 00:21:53,935
+Perfect match.
+
+535
+00:22:02,550 --> 00:22:03,828
+I just heard back
+from the lab.
+
+536
+00:22:03,829 --> 00:22:05,162
+They confirmed
+this is the gun
+
+537
+00:22:05,164 --> 00:22:06,647
+that was used to kill
+Curtis Bradshaw.
+
+538
+00:22:06,649 --> 00:22:07,698
+Do tell.
+
+539
+00:22:07,700 --> 00:22:09,149
+I'm glad you found it.
+
+540
+00:22:09,151 --> 00:22:10,834
+What exactly compelled you
+to go poke around
+
+541
+00:22:10,836 --> 00:22:13,770
+in Dumpsters in the neighborhood
+where Bradshaw was shot?
+
+542
+00:22:13,942 --> 00:22:15,942
+A hunch.
+Oh.
+
+543
+00:22:15,944 --> 00:22:17,994
+Well, I'm glad you found it.
+
+544
+00:22:17,996 --> 00:22:19,929
+What I'm less glad about
+
+545
+00:22:19,931 --> 00:22:21,898
+is that there were no prints
+recovered.
+
+546
+00:22:21,900 --> 00:22:23,600
+So, technically,
+
+547
+00:22:23,602 --> 00:22:26,169
+you're still a suspect
+in the shooting.
+
+548
+00:22:26,171 --> 00:22:28,571
+I.A. hasn't given you
+any grief yet, have they?
+
+549
+00:22:28,573 --> 00:22:29,956
+Not yet.
+
+550
+00:22:29,958 --> 00:22:32,959
+All right, well,
+keep your cool,
+
+551
+00:22:32,961 --> 00:22:35,545
+and we'll keep trying
+to figure out
+
+552
+00:22:35,547 --> 00:22:37,380
+who pulled the trigger.
+
+553
+00:22:37,382 --> 00:22:38,998
+All right.
+
+554
+00:22:41,302 --> 00:22:43,720
+You were uncomfortable with
+the lie that we've told.
+
+555
+00:22:43,722 --> 00:22:45,388
+You shouldn't be.
+Easy for you to say.
+
+556
+00:22:45,390 --> 00:22:46,756
+Why? Because I'm
+a mere consultant
+
+557
+00:22:46,758 --> 00:22:48,141
+and you're a real
+policeman, huh?
+
+558
+00:22:48,143 --> 00:22:49,792
+You think I don't
+have as much respect
+
+559
+00:22:49,794 --> 00:22:51,094
+for the captain
+as you do?
+
+560
+00:22:51,096 --> 00:22:53,846
+No, of course not.
+Huh.
+
+561
+00:22:55,266 --> 00:22:58,017
+I removed the gun from
+your apartment for two reasons.
+
+562
+00:22:58,019 --> 00:23:00,803
+Firstly, I'm absolutely certain
+that you didn't shoot
+
+563
+00:23:00,805 --> 00:23:02,272
+Curtis Bradshaw. Why?
+
+564
+00:23:02,274 --> 00:23:03,773
+Because only an idiot
+would've brought the gun
+
+565
+00:23:03,775 --> 00:23:05,158
+back to his apartment
+after he'd used it.
+
+566
+00:23:05,160 --> 00:23:06,526
+And you, Detective,
+are not an idiot.
+
+567
+00:23:06,528 --> 00:23:08,811
+Thank you.
+Secondly,
+
+568
+00:23:08,813 --> 00:23:10,997
+I don't want to put
+our friend, the captain,
+
+569
+00:23:10,999 --> 00:23:13,499
+in the unenviable position
+of having to open a case
+
+570
+00:23:13,501 --> 00:23:15,168
+against his favored apprentice
+and right-hand man.
+
+571
+00:23:15,170 --> 00:23:17,503
+If he knew this gun
+was found in your apartment,
+
+572
+00:23:17,505 --> 00:23:20,006
+he would have no choice
+but to inform Internal Affairs.
+
+573
+00:23:20,008 --> 00:23:22,008
+The last thing our investigation
+needs right now
+
+574
+00:23:22,010 --> 00:23:23,593
+is a jaunt around
+the bureaucratic maypole,
+
+575
+00:23:23,595 --> 00:23:24,961
+wouldn't you agree?
+
+576
+00:23:24,963 --> 00:23:26,963
+So, what now?
+
+577
+00:23:26,965 --> 00:23:29,299
+I would like to take
+a second look at your apartment.
+
+578
+00:23:31,185 --> 00:23:32,969
+Just out of curiosity,
+Detective, how many of those
+
+579
+00:23:32,971 --> 00:23:34,387
+do you have--
+keys to your apartment?
+
+580
+00:23:34,389 --> 00:23:35,671
+Why do you want to know?
+
+581
+00:23:35,673 --> 00:23:37,106
+Your framer obviously
+
+582
+00:23:37,108 --> 00:23:38,524
+didn't force their way in,
+
+583
+00:23:38,526 --> 00:23:41,060
+so they either picked the lock
+or they have a key.
+
+584
+00:23:41,062 --> 00:23:42,862
+No.
+
+585
+00:23:42,864 --> 00:23:44,864
+You're certain?
+Of course.
+
+586
+00:23:44,866 --> 00:23:47,367
+Look, go to my place,
+do that thing you do.
+
+587
+00:23:47,369 --> 00:23:49,185
+I'll keep trying to
+think of suspects.
+
+588
+00:23:49,187 --> 00:23:51,120
+If anyone comes to
+mind, I'll call you.
+
+589
+00:23:51,122 --> 00:23:53,356
+Mmm.
+
+590
+00:23:58,630 --> 00:24:00,129
+Andre?
+
+591
+00:24:00,131 --> 00:24:01,831
+Over here.
+
+592
+00:24:01,833 --> 00:24:04,050
+So what is it you couldn't
+say to me over the phone?
+
+593
+00:24:04,052 --> 00:24:06,052
+Oh, wait. I'm sorry.
+Aren't you worried
+
+594
+00:24:06,054 --> 00:24:08,471
+somebody here may
+figure out we're family?
+
+595
+00:24:14,094 --> 00:24:16,879
+I want to talk to you
+about Curtis Bradshaw.
+
+596
+00:24:16,881 --> 00:24:19,899
+Nah, see, I'm not allowed to
+discuss criminal activity.
+
+597
+00:24:19,901 --> 00:24:22,986
+You were pretty clear
+about that last night.
+
+598
+00:24:22,988 --> 00:24:24,737
+Would you please listen?
+
+599
+00:24:24,739 --> 00:24:27,073
+Somebody's trying
+to frame me for murder.
+
+600
+00:24:27,075 --> 00:24:30,159
+That drive-by
+was just a stunt.
+
+601
+00:24:30,161 --> 00:24:31,611
+Somebody put Bradshaw's
+stink on it,
+
+602
+00:24:31,613 --> 00:24:33,446
+trying to fit me
+for a motive.
+
+603
+00:24:33,448 --> 00:24:35,498
+Then they killed the man,
+and they...
+
+604
+00:24:35,500 --> 00:24:37,500
+hid the gun in my house.
+
+605
+00:24:37,502 --> 00:24:38,901
+Are you serious?
+
+606
+00:24:38,903 --> 00:24:40,203
+Oh, we got a few leads.
+
+607
+00:24:40,205 --> 00:24:42,038
+Obviously,
+he knows where I live,
+
+608
+00:24:42,040 --> 00:24:44,540
+had a way to get in
+quick, quiet.
+
+609
+00:24:44,542 --> 00:24:47,677
+And we know
+he wears Pergotti boots.
+
+610
+00:24:48,745 --> 00:24:49,879
+Just like the ones
+
+611
+00:24:49,881 --> 00:24:51,547
+that were in
+that box of clothes
+
+612
+00:24:51,549 --> 00:24:54,750
+I gave you
+when you first got out.
+
+613
+00:24:54,752 --> 00:24:56,469
+You think it's me.
+I didn't say that.
+
+614
+00:24:56,471 --> 00:24:58,888
+Yeah, you did.
+Hey, Andre...
+
+615
+00:24:58,890 --> 00:25:00,690
+Well, that's why you brought
+me down here, right?
+
+616
+00:25:00,692 --> 00:25:01,974
+Just in case you
+were right,
+
+617
+00:25:01,976 --> 00:25:03,393
+you could throw me
+in a cell somewhere.
+
+618
+00:25:03,395 --> 00:25:04,560
+I mean, it's not
+like I could
+
+619
+00:25:04,562 --> 00:25:06,029
+bring a gun up
+in here with...
+
+620
+00:25:06,031 --> 00:25:07,563
+Hey, you stayed with me
+when you first got out.
+
+621
+00:25:07,565 --> 00:25:09,148
+You could have made a copy
+of my house key.
+
+622
+00:25:09,150 --> 00:25:11,150
+Then, last night, you said,
+maybe someday I would
+
+623
+00:25:11,152 --> 00:25:12,402
+know what it was like to be you?
+
+624
+00:25:12,404 --> 00:25:14,770
+What, and you thought that
+meant I would try to...
+
+625
+00:25:14,772 --> 00:25:17,407
+Look, things have been bad
+
+626
+00:25:17,409 --> 00:25:19,876
+between us
+for a long time, Andre.
+
+627
+00:25:19,878 --> 00:25:21,327
+No, things have been bad
+
+628
+00:25:21,329 --> 00:25:23,379
+ever since you decided
+to become a cop.
+
+629
+00:25:23,381 --> 00:25:25,882
+I should have joined
+a gang, like you?
+
+630
+00:25:25,884 --> 00:25:27,450
+Gone out and run a corner?
+
+631
+00:25:27,452 --> 00:25:29,285
+You know, I've sacrificed
+everything for you.
+
+632
+00:25:29,287 --> 00:25:30,920
+You did what came easy to you.
+
+633
+00:25:32,005 --> 00:25:34,640
+The only thing you ever
+sacrificed were years
+
+634
+00:25:34,642 --> 00:25:37,009
+you could have shaved off
+your sentence if you had rolled
+
+635
+00:25:37,011 --> 00:25:38,845
+on your friends
+when you got arrested.
+
+636
+00:25:38,847 --> 00:25:42,732
+Years you could have
+spent with me, with mom.
+
+637
+00:25:42,734 --> 00:25:46,152
+Please, if that was you
+
+638
+00:25:46,154 --> 00:25:47,570
+shot up my car
+the other night,
+
+639
+00:25:47,572 --> 00:25:48,938
+if you had anything to do
+
+640
+00:25:48,940 --> 00:25:50,323
+with what happened
+to Curtis Bradshaw,
+
+641
+00:25:50,325 --> 00:25:52,692
+now is the time
+to tell me.
+
+642
+00:25:52,694 --> 00:25:55,661
+Now is the time
+to let me try and help you.
+
+643
+00:25:57,482 --> 00:25:59,282
+Andre?
+
+644
+00:25:59,284 --> 00:26:00,783
+Hey.
+
+645
+00:26:00,785 --> 00:26:02,835
+Andre?
+
+646
+00:26:02,837 --> 00:26:04,871
+Bell! Bell!
+
+647
+00:26:04,873 --> 00:26:06,205
+Hey, back.
+
+648
+00:26:06,207 --> 00:26:09,008
+Back! Hey, it's
+okay. It's fine.
+
+649
+00:26:09,010 --> 00:26:11,660
+It's all right.
+He's my brother.
+
+650
+00:26:13,764 --> 00:26:18,217
+Oh, I take it the
+bathroom is also a bust.
+
+651
+00:26:18,219 --> 00:26:19,668
+That depends.
+
+652
+00:26:19,670 --> 00:26:21,137
+Can you think of any reason
+
+653
+00:26:21,139 --> 00:26:22,855
+that Bell would have
+a lingerie catalogue
+
+654
+00:26:22,857 --> 00:26:24,307
+in which your head
+has been superimposed
+
+655
+00:26:24,309 --> 00:26:25,892
+on almost all
+of the models?
+
+656
+00:26:25,894 --> 00:26:27,727
+He hasn't, but can you think
+of any reason he would?
+
+657
+00:26:27,729 --> 00:26:29,512
+Okay, you're just
+frustrated because
+
+658
+00:26:29,514 --> 00:26:30,897
+we've been here
+for a few hours
+
+659
+00:26:30,899 --> 00:26:32,532
+and we haven't
+found anything.
+
+660
+00:26:32,534 --> 00:26:34,517
+I'm <i>annoyed</i> because
+we haven't found anything.
+
+661
+00:26:34,519 --> 00:26:36,035
+I'm frustrated because,
+
+662
+00:26:36,037 --> 00:26:38,404
+despite the recent attempt
+on a colleague's life,
+
+663
+00:26:38,406 --> 00:26:40,823
+you still haven't agreed
+to learn self-defense.
+
+664
+00:26:40,825 --> 00:26:42,241
+You know, I appreciate
+
+665
+00:26:42,243 --> 00:26:43,993
+your concern with my safety,
+I really do,
+
+666
+00:26:43,995 --> 00:26:45,495
+but I think we need
+to have a conversation
+
+667
+00:26:45,497 --> 00:26:47,196
+about boundaries.
+
+668
+00:26:47,198 --> 00:26:48,697
+Okay, you know, you've given me
+this incredible window
+
+669
+00:26:48,699 --> 00:26:50,883
+into what you do,
+and you know what?
+
+670
+00:26:50,885 --> 00:26:52,885
+It is fascinating,
+but at the end of the day,
+
+671
+00:26:52,887 --> 00:26:55,054
+I am not your apprentice.
+I am your sober companion.
+
+672
+00:26:55,056 --> 00:26:56,839
+No, you're not!
+No, you are not.
+
+673
+00:26:56,841 --> 00:26:59,041
+You haven't been
+for quite some time.
+
+674
+00:26:59,043 --> 00:27:00,893
+Sherlock, what are you...?
+I know that
+
+675
+00:27:00,895 --> 00:27:02,595
+you lied to me
+several weeks ago when you said
+
+676
+00:27:02,597 --> 00:27:04,263
+that my father
+had renewed your contract.
+
+677
+00:27:04,265 --> 00:27:06,482
+I found out when
+I telephoned him last week.
+
+678
+00:27:07,986 --> 00:27:09,902
+I'm not angry.
+
+679
+00:27:09,904 --> 00:27:12,438
+If anything, I am grateful.
+
+680
+00:27:12,440 --> 00:27:14,607
+You saw that
+I was in a raw state,
+
+681
+00:27:14,609 --> 00:27:17,910
+and you stayed
+to see me through it.
+
+682
+00:27:17,912 --> 00:27:19,779
+Now, when I learned
+of the lie, however,
+
+683
+00:27:19,781 --> 00:27:24,534
+I-I deliberately adopted
+a more sanguine mood.
+
+684
+00:27:24,536 --> 00:27:26,669
+I wanted you to see
+that I was well again
+
+685
+00:27:26,671 --> 00:27:28,671
+so you could... move on.
+
+686
+00:27:30,090 --> 00:27:32,542
+But the most curious thing
+happened.
+
+687
+00:27:32,544 --> 00:27:35,127
+You stayed.
+
+688
+00:27:35,129 --> 00:27:38,681
+Days passed,
+then a week.
+
+689
+00:27:38,683 --> 00:27:40,600
+It became clearer and clearer
+
+690
+00:27:40,602 --> 00:27:42,718
+that you were not
+staying for me,
+
+691
+00:27:42,720 --> 00:27:44,353
+but for yourself.
+
+692
+00:27:44,355 --> 00:27:46,472
+Sherlock, I...
+
+693
+00:27:46,474 --> 00:27:48,558
+It's difficult for you
+to say aloud, I know,
+
+694
+00:27:48,560 --> 00:27:50,109
+so I won't ask you to.
+
+695
+00:27:50,111 --> 00:27:54,313
+Rather, I would ask you
+to consider a proposal.
+
+696
+00:27:54,315 --> 00:27:56,765
+Stay on permanently.
+
+697
+00:27:56,767 --> 00:28:00,620
+Not as my sober companion,
+but as my companion.
+
+698
+00:28:00,622 --> 00:28:03,456
+Allow me to continue
+to teach you.
+
+699
+00:28:03,458 --> 00:28:06,325
+Assist me
+in my investigations.
+
+700
+00:28:06,327 --> 00:28:09,161
+In return,
+you will receive a stipend
+
+701
+00:28:09,163 --> 00:28:10,713
+that will at least equal
+
+702
+00:28:10,715 --> 00:28:12,999
+the salary my father
+was paying you.
+
+703
+00:28:13,001 --> 00:28:15,918
+You don't even have
+a source of income.
+
+704
+00:28:15,920 --> 00:28:18,804
+I have certain funds
+set aside.
+
+705
+00:28:18,806 --> 00:28:22,258
+You may continue
+to reside at the brownstone,
+
+706
+00:28:22,260 --> 00:28:24,810
+you may reside elsewhere.
+
+707
+00:28:24,812 --> 00:28:27,647
+You may also consider
+yourself relieved
+
+708
+00:28:27,649 --> 00:28:29,899
+of any and all
+confidentiality burdens
+
+709
+00:28:29,901 --> 00:28:32,518
+with regards
+to my sobriety.
+
+710
+00:28:33,604 --> 00:28:36,522
+See, this is
+an important decision,
+
+711
+00:28:36,524 --> 00:28:39,692
+and I encourage you
+to discuss it with others.
+
+712
+00:28:41,361 --> 00:28:44,163
+Explain what
+you have been to me...
+
+713
+00:28:44,165 --> 00:28:48,167
+and what <i>I</i> believe
+you <i>can</i> be to me.
+
+714
+00:28:48,169 --> 00:28:50,419
+Hmm?
+
+715
+00:28:50,421 --> 00:28:52,988
+Partner.
+
+716
+00:29:04,635 --> 00:29:07,803
+Oh, and lest you think
+that this is an act
+
+717
+00:29:07,805 --> 00:29:11,190
+of, uh, charity, a gift
+from a grateful client,
+
+718
+00:29:11,192 --> 00:29:14,727
+let me assure you,
+it is not.
+
+719
+00:29:15,946 --> 00:29:18,864
+I am... better with you, Watson.
+
+720
+00:29:18,866 --> 00:29:22,451
+Um, I'm sharper,
+I'm more focused.
+
+721
+00:29:26,657 --> 00:29:29,325
+Difficult to say why, exactly.
+
+722
+00:29:31,861 --> 00:29:34,997
+Perhaps, in time,
+I'll solve that, as well.
+
+723
+00:29:45,977 --> 00:29:47,677
+Andre?
+
+724
+00:29:47,679 --> 00:29:50,846
+Look, I know you're in there.
+I can hear the TV.
+
+725
+00:29:52,232 --> 00:29:55,050
+I just... I want to apologize
+for what I said before.
+
+726
+00:29:55,052 --> 00:29:58,104
+I never should have called you
+down to the station like that.
+
+727
+00:29:58,106 --> 00:29:59,488
+Can you just... Andre?
+
+728
+00:29:59,490 --> 00:30:01,557
+Andre, you in here?
+
+729
+00:30:01,559 --> 00:30:03,793
+...opening fire
+with a 12-gauge shotgun...
+
+730
+00:30:03,795 --> 00:30:05,111
+Andre!
+
+731
+00:30:13,620 --> 00:30:17,206
+Oh, no.
+No, no, no, no.
+
+732
+00:30:17,208 --> 00:30:21,043
+Hold on. Hold on.
+
+733
+00:30:23,263 --> 00:30:25,681
+Yeah. This is
+Detective Marcus Bell,
+
+734
+00:30:25,683 --> 00:30:28,434
+badge number 42819.
+
+735
+00:30:28,436 --> 00:30:31,220
+I need an bus
+at 73 Parsons Boulevard.
+
+736
+00:30:31,222 --> 00:30:33,939
+Male shot at the scene.
+
+737
+00:30:33,941 --> 00:30:38,060
+Be advised, the victim...
+is my brother.
+
+738
+00:30:39,863 --> 00:30:42,431
+Come here.
+
+739
+00:31:02,209 --> 00:31:03,592
+It's interesting.
+
+740
+00:31:03,594 --> 00:31:05,694
+We were in Detective
+Bell's apartment
+
+741
+00:31:05,696 --> 00:31:07,629
+for four hours this afternoon.
+
+742
+00:31:07,631 --> 00:31:09,865
+I saw nothing that would
+indicate he had a brother.
+
+743
+00:31:09,867 --> 00:31:11,533
+Well, he did say before
+he left for the hospital
+
+744
+00:31:11,535 --> 00:31:13,235
+that they were not
+on the best of terms.
+
+745
+00:31:13,237 --> 00:31:15,804
+Still... I'm me.
+
+746
+00:31:19,193 --> 00:31:20,258
+You've been staring
+at that message
+
+747
+00:31:20,260 --> 00:31:21,943
+for over five minutes now.
+
+748
+00:31:21,945 --> 00:31:23,111
+Have I?
+
+749
+00:31:23,113 --> 00:31:25,397
+I don't think
+it's a coded message.
+
+750
+00:31:25,399 --> 00:31:30,068
+No. No, but it's admirable,
+though, isn't it?
+
+751
+00:31:30,070 --> 00:31:32,821
+I mean, whoever tried
+to frame Detective Bell
+
+752
+00:31:32,823 --> 00:31:34,373
+clearly had the same idea here.
+
+753
+00:31:34,375 --> 00:31:36,908
+I foiled the first
+frame-up when I delivered
+
+754
+00:31:36,910 --> 00:31:38,443
+the nine-millimeter
+to the police.
+
+755
+00:31:38,445 --> 00:31:40,629
+I said that I found it, hmm?
+
+756
+00:31:40,631 --> 00:31:42,831
+They tried a second attempt.
+
+757
+00:31:42,833 --> 00:31:45,300
+Detective Bell's sibling
+lost consciousness,
+
+758
+00:31:45,302 --> 00:31:48,220
+but before he did,
+he makes a valiant attempt
+
+759
+00:31:48,222 --> 00:31:51,089
+to make sure that he doesn't end
+up a prop in that masquerade.
+
+760
+00:31:51,091 --> 00:31:52,924
+How do you know
+it was the same shooter?
+
+761
+00:31:52,926 --> 00:31:54,409
+Andre is an ex-convict.
+
+762
+00:31:54,411 --> 00:31:57,596
+His legal file
+is over four inches thick.
+
+763
+00:31:57,598 --> 00:31:59,931
+Who knows what kind of trouble
+he might have been in?
+
+764
+00:31:59,933 --> 00:32:02,901
+Obviously, Andre Bell knew
+that he wasn't in any at all.
+
+765
+00:32:02,903 --> 00:32:05,470
+Why else would he use what
+might have been his last breath
+
+766
+00:32:05,472 --> 00:32:07,239
+to try and clear his brother?
+
+767
+00:32:07,241 --> 00:32:09,491
+He understood what this was.
+
+768
+00:32:11,244 --> 00:32:12,811
+Look.
+
+769
+00:32:18,786 --> 00:32:21,536
+You see the slight declivity
+in the dirt?
+
+770
+00:32:23,823 --> 00:32:26,124
+If that's not another
+partial Pergotti footprint
+
+771
+00:32:26,126 --> 00:32:28,126
+meant to implicate
+Detective Bell,
+
+772
+00:32:28,128 --> 00:32:29,711
+I'll stop throwing
+tennis balls at you.
+
+773
+00:32:29,713 --> 00:32:31,680
+You can tell what that is
+all the way from here?
+
+774
+00:32:33,049 --> 00:32:34,716
+Don't you think
+it's time for us
+
+775
+00:32:34,718 --> 00:32:36,635
+to tell Captain Gregson
+about the framer?
+
+776
+00:32:36,637 --> 00:32:39,471
+I think I would like to discuss
+it with the detective first.
+
+777
+00:32:39,473 --> 00:32:41,807
+I obviously put
+certain wheels in motion
+
+778
+00:32:41,809 --> 00:32:44,443
+when I removed the handgun
+from his apartment.
+
+779
+00:32:44,445 --> 00:32:46,695
+I don't want to make another
+move without his consent.
+
+780
+00:32:48,448 --> 00:32:49,731
+<i>I'll tell him.</i>
+
+781
+00:32:49,733 --> 00:32:50,982
+You were
+just trying
+
+782
+00:32:50,984 --> 00:32:52,734
+to help me out,
+and him.
+
+783
+00:32:52,736 --> 00:32:54,319
+He'll understand, but...
+
+784
+00:32:54,321 --> 00:32:55,821
+but I think he'll
+take it better
+
+785
+00:32:55,823 --> 00:32:58,156
+coming from me.
+
+786
+00:32:58,158 --> 00:32:59,825
+Look, this
+isn't right.
+
+787
+00:32:59,827 --> 00:33:01,660
+They said they were
+gonna close him up
+
+788
+00:33:01,662 --> 00:33:03,528
+20 minutes ago.
+
+789
+00:33:03,530 --> 00:33:04,863
+It takes time.
+
+790
+00:33:04,865 --> 00:33:07,048
+It's a good sign
+they decided to suture.
+
+791
+00:33:09,035 --> 00:33:11,052
+You saved his life.
+
+792
+00:33:11,054 --> 00:33:13,088
+If anyone could take
+
+793
+00:33:13,090 --> 00:33:15,206
+two slugs to the back
+and pull through,
+
+794
+00:33:15,208 --> 00:33:17,709
+it's Andre.
+
+795
+00:33:17,711 --> 00:33:19,644
+He's a stubborn bastard.
+
+796
+00:33:19,646 --> 00:33:21,313
+Today that is a good thing.
+
+797
+00:33:21,315 --> 00:33:23,748
+About time it started
+working for him--
+
+798
+00:33:23,750 --> 00:33:25,083
+ruined the last three years
+
+799
+00:33:25,085 --> 00:33:27,051
+of his life.
+What do you mean?
+
+800
+00:33:27,053 --> 00:33:29,354
+Nothing. I just...
+
+801
+00:33:29,356 --> 00:33:33,024
+never quite forgave him for
+staying in as long as he did.
+
+802
+00:33:33,026 --> 00:33:35,861
+A while back,
+I cashed in a big favor
+
+803
+00:33:35,863 --> 00:33:38,196
+to get him
+an early parole hearing.
+
+804
+00:33:38,198 --> 00:33:40,398
+But the dope...
+
+805
+00:33:40,400 --> 00:33:42,434
+he wouldn't
+play ball.
+
+806
+00:33:42,436 --> 00:33:45,504
+All he had to do was identify
+his gang's drug hookup.
+
+807
+00:33:45,506 --> 00:33:48,206
+Mind you, the police already
+knew who the guy was.
+
+808
+00:33:48,208 --> 00:33:50,709
+He was serving
+ten to 20.
+
+809
+00:33:50,711 --> 00:33:52,644
+But Andre has his code.
+
+810
+00:33:52,646 --> 00:33:55,797
+He wouldn't talk;
+served his full term.
+
+811
+00:33:57,550 --> 00:33:59,518
+It was you.
+
+812
+00:33:59,520 --> 00:34:02,087
+You were the one
+who blew the whistle
+
+813
+00:34:02,089 --> 00:34:03,939
+on the Curtis Bradshaw detail.
+
+814
+00:34:03,941 --> 00:34:05,640
+What?
+
+815
+00:34:05,642 --> 00:34:08,927
+I looked at some
+of Andre's files tonight.
+
+816
+00:34:08,929 --> 00:34:11,947
+<i>His first parole hearing</i>
+<i>was June 2009,</i>
+
+817
+00:34:11,949 --> 00:34:14,065
+one month after Mickey Hudson
+
+818
+00:34:14,067 --> 00:34:15,901
+was busted
+for planting evidence.
+
+819
+00:34:15,903 --> 00:34:17,652
+I don't know what
+you're talking about.
+
+820
+00:34:17,654 --> 00:34:19,471
+It fits.
+
+821
+00:34:19,473 --> 00:34:21,439
+Your place is immaculate.
+
+822
+00:34:21,441 --> 00:34:23,241
+Your sock drawer
+is immaculate.
+
+823
+00:34:23,243 --> 00:34:25,176
+You're a straight shooter
+in every corner of your life,
+
+824
+00:34:25,178 --> 00:34:27,462
+and your frustration with Andre
+because he wouldn't talk...
+
+825
+00:34:27,464 --> 00:34:28,947
+I don't see why it matters.
+
+826
+00:34:28,949 --> 00:34:30,949
+It matters, Detective.
+Did you earn the favor
+
+827
+00:34:30,951 --> 00:34:33,084
+by informing
+on your boss or not?
+
+828
+00:34:33,086 --> 00:34:36,171
+I wasn't gonna watch
+some dirtbag plant evidence.
+
+829
+00:34:36,173 --> 00:34:38,223
+That wasn't right.
+Someone had to speak up.
+
+830
+00:34:38,225 --> 00:34:40,559
+So what?
+So what?
+
+831
+00:34:40,561 --> 00:34:42,627
+We've been looking
+at the wrong pool of suspects.
+
+832
+00:34:42,629 --> 00:34:45,597
+Anyone from the old detail would
+have had the requisite skills
+
+833
+00:34:45,599 --> 00:34:47,966
+and the motive
+to carry out these crimes.
+
+834
+00:34:47,968 --> 00:34:49,484
+They'd want to see you punished.
+
+835
+00:34:49,486 --> 00:34:50,602
+Nobody knew.
+
+836
+00:34:50,604 --> 00:34:52,520
+Perhaps they found out.
+
+837
+00:34:56,525 --> 00:34:58,142
+You wanted
+to see me, Captain?
+
+838
+00:34:58,144 --> 00:35:00,144
+Have a seat,
+Officer Reyes.
+
+839
+00:35:11,925 --> 00:35:14,459
+Did I do something wrong?
+Oh, we have reason
+
+840
+00:35:14,461 --> 00:35:17,012
+to believe you did
+several things wrong.
+
+841
+00:35:17,014 --> 00:35:19,798
+Shooting up
+Detective Bell's car,
+
+842
+00:35:19,800 --> 00:35:21,349
+for example.
+
+843
+00:35:21,351 --> 00:35:23,768
+Killing Curtis Bradshaw.
+
+844
+00:35:23,770 --> 00:35:26,504
+Planting the murder weapon
+in Bell's residence.
+
+845
+00:35:26,506 --> 00:35:29,641
+Shooting his brother when the
+first frame-up went sideways.
+
+846
+00:35:29,643 --> 00:35:32,394
+Wha... what?
+
+847
+00:35:32,396 --> 00:35:35,480
+We recently had occasion
+to take a very careful look
+
+848
+00:35:35,482 --> 00:35:38,733
+at the members of the Curtis
+Bradshaw detail who worked
+
+849
+00:35:38,735 --> 00:35:39,985
+<i>with Detective Mickey Hudson</i>
+
+850
+00:35:39,987 --> 00:35:42,871
+in 2009, and there you were.
+
+851
+00:35:42,873 --> 00:35:44,739
+Yeah, and?
+
+852
+00:35:44,741 --> 00:35:47,325
+Well, you looked up to Hudson,
+you respected him.
+
+853
+00:35:47,327 --> 00:35:49,027
+He wrote you a recommendation
+when you applied
+
+854
+00:35:49,029 --> 00:35:50,378
+for promotion to the vice squad.
+
+855
+00:35:50,380 --> 00:35:52,163
+Yeah, he was good police.
+
+856
+00:35:52,165 --> 00:35:53,999
+Well, there are some members
+of Internal Affairs
+
+857
+00:35:54,001 --> 00:35:55,000
+who would disagree with you.
+
+858
+00:35:55,002 --> 00:35:56,251
+The rat squad?
+
+859
+00:35:56,253 --> 00:35:58,303
+I never much cared
+what they thought.
+
+860
+00:35:58,305 --> 00:36:01,056
+Well, Detective Evan Carlyle,
+
+861
+00:36:01,058 --> 00:36:02,924
+of the rat squad,
+
+862
+00:36:02,926 --> 00:36:05,209
+would be most disappointed
+to hear you say that.
+
+863
+00:36:05,211 --> 00:36:07,178
+We know that you've been
+seeing him on and off
+
+864
+00:36:07,180 --> 00:36:08,379
+for the past few months.
+
+865
+00:36:08,381 --> 00:36:10,015
+And we strongly suspect
+
+866
+00:36:10,017 --> 00:36:12,383
+it had something to
+with gaining access to his most
+
+867
+00:36:12,385 --> 00:36:13,685
+sensitive files.
+
+868
+00:36:13,687 --> 00:36:15,820
+Three years ago, when I.A. first
+
+869
+00:36:15,822 --> 00:36:17,522
+started to investigate Hudson,
+
+870
+00:36:17,524 --> 00:36:20,058
+they came to suspect that maybe
+you had helped him steal
+
+871
+00:36:20,060 --> 00:36:23,078
+the drugs that wended their way
+into Curtis Bradshaw's home.
+
+872
+00:36:23,080 --> 00:36:25,897
+Yeah, they questioned me.
+
+873
+00:36:25,899 --> 00:36:28,616
+I told them I had
+nothing to do with it.
+
+874
+00:36:28,618 --> 00:36:30,835
+And Hudson backed
+your story, probably
+
+875
+00:36:30,837 --> 00:36:33,404
+because he'd already
+decided to kill himself.
+
+876
+00:36:33,406 --> 00:36:35,573
+Why's he gonna ruin your life
+
+877
+00:36:35,575 --> 00:36:37,459
+when he'd already decided
+to end his own?
+
+878
+00:36:37,461 --> 00:36:41,262
+But you still had
+a black mark against you.
+
+879
+00:36:41,264 --> 00:36:43,298
+Department couldn't take
+any real action against you,
+
+880
+00:36:43,300 --> 00:36:47,352
+but you were told
+vice was never gonna happen.
+
+881
+00:36:47,354 --> 00:36:48,937
+You were undeterred.
+
+882
+00:36:48,939 --> 00:36:50,138
+You applied three more times.
+
+883
+00:36:50,140 --> 00:36:51,923
+After your most
+recent rejection,
+
+884
+00:36:51,925 --> 00:36:52,941
+I imagine you were incensed.
+
+885
+00:36:52,943 --> 00:36:55,060
+You simply
+had to know--
+
+886
+00:36:55,062 --> 00:36:58,730
+who was it who tipped off I.A.
+as to Hudson's transgressions?
+
+887
+00:36:58,732 --> 00:37:00,732
+Must have broken your heart
+when you found out
+
+888
+00:37:00,734 --> 00:37:02,617
+that it was Detective Bell.
+
+889
+00:37:02,619 --> 00:37:04,486
+Someone you had dated.
+
+890
+00:37:04,488 --> 00:37:06,571
+Someone who'd given you
+the key to his apartment.
+
+891
+00:37:06,573 --> 00:37:08,406
+He must've known--
+he made no mention
+
+892
+00:37:08,408 --> 00:37:10,075
+of your name when
+he filed his report.
+
+893
+00:37:10,077 --> 00:37:12,043
+He had absolutely no clue
+as to your involvement.
+
+894
+00:37:12,045 --> 00:37:14,796
+When we told him
+a short while ago-- stunned.
+
+895
+00:37:17,383 --> 00:37:18,750
+You have a problem
+
+896
+00:37:18,752 --> 00:37:19,801
+with me, Captain?
+
+897
+00:37:19,803 --> 00:37:21,953
+Take it up with my union rep.
+
+898
+00:37:21,955 --> 00:37:24,122
+So, we visited your
+home this morning.
+
+899
+00:37:24,124 --> 00:37:27,559
+Um, would you care
+
+900
+00:37:27,561 --> 00:37:31,012
+to explain these?
+
+901
+00:37:31,931 --> 00:37:33,598
+Shoelace eyelets.
+
+902
+00:37:33,600 --> 00:37:35,483
+From a pair of Pergotti boots.
+
+903
+00:37:35,485 --> 00:37:37,102
+The same boots you used
+
+904
+00:37:37,104 --> 00:37:39,020
+<i>to plant footprints</i>
+<i>that you knew would lead back</i>
+
+905
+00:37:39,022 --> 00:37:41,139
+to Detective Bell.
+
+906
+00:37:41,141 --> 00:37:42,857
+You torched them in your garage,
+but those didn't burn.
+
+907
+00:37:42,859 --> 00:37:45,360
+Does the name Denny Vargas
+mean anything to you?
+
+908
+00:37:45,362 --> 00:37:48,646
+Should do-- you arrested
+him two months ago
+
+909
+00:37:48,648 --> 00:37:50,031
+in his home.
+
+910
+00:37:50,033 --> 00:37:51,916
+It was suspected
+that Vargas was maintaining
+
+911
+00:37:51,918 --> 00:37:54,869
+an arsenal of untraceable,
+unregistered firearms.
+
+912
+00:37:54,871 --> 00:37:58,173
+Strangely none of those
+firearms were seized
+
+913
+00:37:58,175 --> 00:38:00,491
+by you during the arrest.
+
+914
+00:38:00,493 --> 00:38:03,094
+Well, not officially anyway.
+
+915
+00:38:03,096 --> 00:38:05,597
+The assault on
+Detective Bell's car was done
+
+916
+00:38:05,599 --> 00:38:07,048
+with a modified MP5.
+
+917
+00:38:07,050 --> 00:38:10,552
+Bradshaw was killed
+with a Colt nine-millimeter.
+
+918
+00:38:10,554 --> 00:38:11,886
+And Andre Bell was shot
+
+919
+00:38:11,888 --> 00:38:14,005
+<i>with an as yet undiscovered</i>
+
+920
+00:38:14,007 --> 00:38:15,390
+.22 caliber pistol.
+
+921
+00:38:15,392 --> 00:38:18,059
+The lab ran tests,
+and the bullet profiles
+
+922
+00:38:18,061 --> 00:38:21,529
+for these attacks match
+several of the crimes
+
+923
+00:38:21,531 --> 00:38:23,798
+committed by Denny Vargas.
+
+924
+00:38:23,800 --> 00:38:25,650
+It's interesting, no?
+
+925
+00:38:25,652 --> 00:38:29,495
+You arrest him,
+his guns disappear.
+
+926
+00:38:29,496 --> 00:38:32,330
+Could it be, Officer Reyes,
+
+927
+00:38:32,332 --> 00:38:34,649
+that you are stockpiling
+your own personal armory
+
+928
+00:38:34,651 --> 00:38:37,952
+of untraceable guns?
+
+929
+00:38:47,012 --> 00:38:49,497
+Oh, why am I not surprised
+he's not here?
+
+930
+00:38:50,833 --> 00:38:52,967
+Bell.
+
+931
+00:38:52,969 --> 00:38:56,521
+He would never say anything
+like this to my face.
+
+932
+00:39:00,025 --> 00:39:02,477
+It's not his style.
+
+933
+00:39:02,479 --> 00:39:04,395
+Officer Paula Reyes
+was arrested this morning...
+
+934
+00:39:04,397 --> 00:39:07,181
+So even if she pleads out,
+
+935
+00:39:07,183 --> 00:39:11,119
+that'll be life, right?
+
+936
+00:39:11,121 --> 00:39:13,488
+Probably.
+
+937
+00:39:19,245 --> 00:39:21,463
+You remember Sharise?
+
+938
+00:39:21,465 --> 00:39:23,164
+Mm-hmm.
+
+939
+00:39:23,166 --> 00:39:25,116
+She cut the spokes
+on my bike
+
+940
+00:39:25,118 --> 00:39:28,119
+when we broke up
+in the seventh grade.
+
+941
+00:39:28,121 --> 00:39:31,973
+But that's the worst thing any
+of my exes tried to do to me.
+
+942
+00:39:38,481 --> 00:39:41,566
+Andre, about what
+I said the other day,
+
+943
+00:39:41,568 --> 00:39:42,851
+asking you if you, uh...
+
+944
+00:39:42,853 --> 00:39:44,185
+Don't.
+
+945
+00:39:44,187 --> 00:39:45,487
+You don't have
+to say anything.
+
+946
+00:39:45,489 --> 00:39:47,071
+No, I do.
+
+947
+00:39:47,073 --> 00:39:49,073
+I do. I'm sorry.
+
+948
+00:39:49,075 --> 00:39:52,193
+I, uh...
+
+949
+00:39:52,195 --> 00:39:54,929
+It's cool, Marcus.
+
+950
+00:39:54,931 --> 00:39:57,248
+It's cool, seriously.
+
+951
+00:39:58,567 --> 00:40:00,568
+I-I got to ask.
+
+952
+00:40:00,570 --> 00:40:02,620
+The note you left?
+
+953
+00:40:02,622 --> 00:40:04,405
+"Was not Marcus"?
+
+954
+00:40:04,407 --> 00:40:07,175
+You told me someone tried
+
+955
+00:40:07,177 --> 00:40:08,459
+to frame you for a shooting.
+
+956
+00:40:08,461 --> 00:40:10,428
+I-I don't know.
+
+957
+00:40:10,430 --> 00:40:11,713
+I just figured maybe
+
+958
+00:40:11,715 --> 00:40:13,031
+it was the same guy.
+
+959
+00:40:13,033 --> 00:40:15,183
+No, I know, but...
+
+960
+00:40:15,185 --> 00:40:17,919
+we-we fought yesterday.
+
+961
+00:40:17,921 --> 00:40:19,587
+You were shot in the back.
+
+962
+00:40:19,589 --> 00:40:21,306
+No way you saw who did it.
+
+963
+00:40:21,308 --> 00:40:23,608
+No way you could've known
+for sure it wasn't me.
+
+964
+00:40:23,610 --> 00:40:25,727
+But I did know.
+
+965
+00:40:25,729 --> 00:40:28,446
+I know you.
+
+966
+00:40:30,065 --> 00:40:34,035
+And you got to look out
+for family.
+
+967
+00:40:34,037 --> 00:40:36,821
+Even when they disappoint you.
+
+968
+00:40:41,744 --> 00:40:45,112
+You're rearranging
+the locks again.
+
+969
+00:40:48,283 --> 00:40:51,786
+You're doing it by...
+
+970
+00:40:51,788 --> 00:40:54,088
+date of manufacture,
+
+971
+00:40:54,090 --> 00:40:55,790
+earliest to latest.
+Yep.
+
+972
+00:40:55,792 --> 00:40:58,927
+Seems like the most sensible
+way to display them.
+
+973
+00:40:58,929 --> 00:41:00,311
+This week anyway.
+
+974
+00:41:04,817 --> 00:41:06,484
+I like to be paid
+on Thursdays.
+
+975
+00:41:08,821 --> 00:41:10,154
+And since I don't
+have an apartment
+
+976
+00:41:10,156 --> 00:41:11,823
+right now, I will
+stay here rent-free
+
+977
+00:41:11,825 --> 00:41:12,941
+until I find something else.
+
+978
+00:41:12,943 --> 00:41:14,325
+And you will
+continue going
+
+979
+00:41:14,327 --> 00:41:15,610
+to group support
+meetings with me
+
+980
+00:41:15,612 --> 00:41:17,829
+for as long
+as we work together.
+
+981
+00:41:19,982 --> 00:41:23,785
+Congratulations
+on your new career, Watson.
+
+982
+00:41:31,865 --> 00:41:33,610
+Just one more thing
+for this to work.
+
+983
+00:41:33,611 --> 00:41:35,209
+Yes, what's that?
+
+984
+00:41:35,210 --> 00:41:36,694
+Ow!
+
+985
+00:41:36,696 --> 00:41:39,080
+Could have been a knife.
+
+986
+00:41:39,082 --> 00:41:44,082
+== sync, corrected by <font color="#00FF00">elderman</font> ==
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>
