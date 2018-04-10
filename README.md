@@ -1,11 +1,12 @@
 # Drama/Movie Script generator
 
 An attempt at designing a network which generates Movie Scripts (how cool is that!)
+
 ### Topology
 I have shortlisted some candidates for acomplishing this taks:
-1. Seq2seq LSTM with encoders
-2. Variational Autoencoders OR
-3. A GAN where Gen produces dialogues and Cop tells if it comes close to the storyline (This will be cool!). We'll need a different loss function here to penalise the network based on the cosine similarity with subsequent story segments for each character. 
+1. Seq2seq LSTM with encoders. Idea behind using this is to have multiple levels of abstraction which we will obtain from a seq2seq model. We might use LSTM's with some around 700 memory cells, we get this through experience.
+2. Variational Autoencoders. Unlike just autoencoders, [variational autoencoders](https://towardsdatascience.com/intuitively-understanding-variational-autoencoders-1bfe67eb5daf) have a special property of giving contineous RV's. I want to use this model analogous to how 'Thought vectors' are. With contineous RV's instead of discrete, we can have script with accurate and enriched meaning. Again meaning at what level of abstraction? What kind of meaning? etc are questions I dont know and I hope to find out soon.
+3. A GAN where Gen produces dialogues and Cop tells if it comes close to the storyline (This will be cool!). We'll need a different loss function here to penalise the network based on the cosine similarity with subsequent story segments for each character.
 
 ### Dataset
 Two obvious candidates:
