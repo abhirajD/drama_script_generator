@@ -5,8 +5,7 @@ An attempt at designing a network which generates Movie Scripts (how cool is tha
 I have shortlisted some candidates for acomplishing this taks:
 1. Seq2seq LSTM with encoders
 2. Variational Autoencoders OR
-3. A GAN where Gen produces dialogues and Cop tells if it comes close to the storyline (This will be cool!). We'll need a different loss function here to penalise the network based on the cosine similarity with subsequent story segments for each character.
-4. 
+3. A GAN where Gen produces dialogues and Cop tells if it comes close to the storyline (This will be cool!). We'll need a different loss function here to penalise the network based on the cosine similarity with subsequent story segments for each character. 
 
 ### Dataset
 Two obvious candidates:
